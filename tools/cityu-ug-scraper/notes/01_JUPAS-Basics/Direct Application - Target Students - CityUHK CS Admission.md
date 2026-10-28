@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://admission.cs.cityu.edu.hk/before-admission-local/at-a-glance
 status: draft
 title: Direct Application - Target Students | CityUHK CS Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://admission.cs.cityu.edu.hk/before-admission-local/at-a-glance
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -31,37 +31,28 @@ What does the official CityUHK page say about **Direct Application - Target Stud
 
 ### Image 1
 
-This image contains a flowchart, so it is not purely decorative. Here is the structured description of its meaning:
+This image is a flowchart showing the admission process for non-HKDSE students. Here is the structured breakdown of the steps and criteria:
 
-# Admission Process Flowchart
+**1. Entry Requirements (Type of Students)**
+*   Applicant must be one of the following: **Higher Diploma (HD)**, **Associate Degree (AD)**, or possess **Other Qualifications**.
 
-The image illustrates the application and admission process for a specific type of student (non-HKDSE).
+**2. Application Phase**
+*   Submit a **Direct Application**.
+*   **Deadline:** Application deadline is **Early January**.
 
-## Phases in Order
+**3. Academic Screening (Academic Results - Non-HKDSE)**
+*   Applicant must **Meet Entrance Requirements**.
+*   Applicant must have **Good Results**.
 
-1. **Type of Students (Start)**
-   - Three eligible student categories are listed side-by-side:
-     - Higher Diploma (HD)
-     - Associate Degree (AD)
-     - Other Qualifications
+**4. Interview Phase**
+*   Applicant is **Invited for Admission Interview**.
+*   Applicant must **Perform Well in Interview**.
 
-2. **Direct Application**
-   - Students must submit a direct application.
-   - **Note:** The application deadline is highlighted in a red box as **Early January**.
-
-3. **Academic Results (Non-HKDSE)**
-   - **First Gate:** Students must **Meet Entrance Requirements** (icon of a document with a checkmark).
-   - **Second Gate:** Students must have **Good Results** (icon of a document with a grade).
-
-4. **Interview**
-   - **First Gate:** Students must be **Invited for Admission Interview** (icon of a person at a desk).
-   - **Second Gate:** Students must **Perform Well in Interview**.
-
-5. **Selected for Admission (End)**
-   - After successfully passing all previous steps, the student is finally selected (indicated by a checkmark icon).
+**5. Final Outcome**
+*   Applicant is **Selected for Admission**.
 
 ## Source
 
 - URL: https://admission.cs.cityu.edu.hk/before-admission-local/at-a-glance
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `39f56e58baeee5fa3ffdc88016c9252c2fa79703292a6d7fe8f0b34a640ece3e`

@@ -1,7 +1,7 @@
 ---
 area: 05_Programmes
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cs.cityu.edu.hk/academic-programmes/programmes-overview
 status: draft
 title: Programmes Overview | Department of Computer Science
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cs.cityu.edu.hk/academic-programmes/programmes-overview
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -46,5 +46,5 @@ What does the official CityUHK page say about **Programmes Overview | Department
 ## Source
 
 - URL: https://www.cs.cityu.edu.hk/academic-programmes/programmes-overview
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `ac61d32fba12b8e3a0b29a2a88a4b57912df43685561e72cfb22a47492a69b66`

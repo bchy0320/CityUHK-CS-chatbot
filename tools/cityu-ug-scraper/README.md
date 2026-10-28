@@ -124,4 +124,14 @@ python -m src.cli generate --date 2026-10-27
   the `role="button"` elements.
 - `&nbsp;` entities are normalized to regular spaces so the output isn't
   littered with U+00A0 characters.
+- Area classification uses the URL **path** and page **title** only. The page
+  body is deliberately not scanned: hub pages (e.g. the department home) list
+  many unrelated keywords (award names, news items) that would mis-classify
+  them (e.g. a stray "scholarship" award name). The URL path is used rather
+  than the full URL so a hostname like `admission.cs.cityu.edu.hk` does not
+  force every page into the broad "admission" rule.
+- When two pages share the same title (e.g. two "Double Degree Programme"
+  pages), the generated note filenames are disambiguated with a numeric suffix
+  (`Name.md`, `Name (2).md`, `Name (3).md`) so neither note overwrites the
+  other.
 - Respects `robots.txt` and a polite delay between requests.

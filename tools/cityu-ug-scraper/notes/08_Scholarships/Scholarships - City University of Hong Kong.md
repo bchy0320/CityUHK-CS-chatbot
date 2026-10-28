@@ -1,7 +1,7 @@
 ---
 area: 08_Scholarships
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cityu.edu.hk/en/admissions/scholarship
 status: draft
 title: Scholarships | City University of Hong Kong
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cityu.edu.hk/en/admissions/scholarship
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -30,5 +30,5 @@ CityUHK offers various types of scholarships and prizes which are donated by ind
 ## Source
 
 - URL: https://www.cityu.edu.hk/en/admissions/scholarship
-- Fetched: 2026-10-27
-- Content hash: `f0297806864f2be2ab6585d3c9dfbdba0270a6cd34592737364cac0c5a8b24ef`
+- Fetched: 2026-10-28
+- Content hash: `d5b1111df5f328534c5ca62821a707a9bbcfdc0eed33a6b1ac2009448c39bf6b`

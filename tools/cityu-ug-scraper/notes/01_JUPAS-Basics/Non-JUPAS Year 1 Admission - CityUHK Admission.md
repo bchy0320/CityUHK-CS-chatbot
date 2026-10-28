@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cityu.edu.hk/admo/admissions/non-jupas-year-1-admission
 status: draft
 title: Non-JUPAS Year 1 Admission | CityUHK Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cityu.edu.hk/admo/admissions/non-jupas-year-1-admission
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -237,5 +237,5 @@ High school students are welcome to apply for Direct Admission for [Joint Bachel
 ## Source
 
 - URL: https://www.cityu.edu.hk/admo/admissions/non-jupas-year-1-admission
-- Fetched: 2026-10-27
-- Content hash: `3c0c447113ef2a7a5a06ac4343fa9135f14e49b9d2987ce12f4afa12b71df7d3`
+- Fetched: 2026-10-28
+- Content hash: `c97d68f552692f6945f4196dfef6310e315698ee8fd90a6a785116c4a92d0700`

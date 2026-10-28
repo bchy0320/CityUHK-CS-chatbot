@@ -1,7 +1,7 @@
 ---
 area: 04_Curriculum
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cs.cityu.edu.hk/academic-programmes/minor-ai/aims
 status: draft
 title: Minor in Artificial Intelligence | Department of Computer Science
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cs.cityu.edu.hk/academic-programmes/minor-ai/aims
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -38,5 +38,5 @@ The Minor in Artificial Intelligence aims to provide students with comprehensive
 ## Source
 
 - URL: https://www.cs.cityu.edu.hk/academic-programmes/minor-ai/aims
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `9cd7db27c3caeb18f1f2d64661dc1e9ec56b97dfec75342444756f895a7525c7`

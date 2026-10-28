@@ -1,7 +1,7 @@
 ---
 area: 05_Programmes
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/aims
 status: draft
 title: Bachelor of Science in Cybersecurity | Department of Computer Science
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/aims
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -61,29 +61,27 @@ Cybersecurity is a rapidly expanding field that presents numerous employment pro
 
 ### Image 1
 
-The image displays a two-tier hierarchy diagram illustrating career progression in cybersecurity.
+This image contains a diagram representing career progression in cybersecurity. It is organized into two stages separated by a dotted line.
 
-**Top Tier: Entry-Level Cybersecurity Personnel**
-This section contains three roles, each with an icon:
-*   **Help Desk Technicians** (icon showing a person at a computer with a gear)
-*   **Network Administrators** (icon showing a person with network/server racks)
-*   **Software Developers** (icon showing a person at a laptop with code brackets)
+**Stage 1: Entry-Level Cybersecurity Personnel**
+This section lists three starting roles:
+*   **Help Desk Technicians**
+*   **Network Administrators**
+*   **Software Developers**
 
-**Divider**
-A horizontal dotted line separates the entry-level tier from the specialized tier.
-
-**Bottom Tier: Specialized Cybersecurity Analyst**
-This section contains four advanced roles, each with an icon:
-*   **Security Architects** (icon of a person with a hard hat and blueprint)
-*   **Cybersecurity Managers** (icon of a person with a shield and lock)
-*   **Chief Information Security Officers** (icon of a person in a suit with a shield)
-*   **Security Consultants** (icon of a person with a headset and magnifying glass)
+**Stage 2: Specialized Cybersecurity Analyst**
+This section lists four advanced roles:
+*   **Security Architects**
+*   **Cybersecurity Managers**
+*   **Chief Information Security Officers**
+*   **Security Consultants**
 
 **Relationships**
-The visual layout implies a progression or upward mobility from the career starting points at the top to the specialized positions at the bottom. The title of the bottom section ("Specialized Cybersecurity Analyst") could indicate the overarching role or next career step for those in the entry-level positions.
+*   **Progression:** The dotted horizontal line indicates a path or transition from entry-level positions to more specialized, advanced roles in cybersecurity.
+*   **Hierarchy:** The layout suggests that the roles in the bottom section are subsequent or advanced steps from the positions in the top section.
 
 ## Source
 
 - URL: https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/aims
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `bcf63b01ae13c6b1dc615229e246f057ca81ea95c549297c4382397e14a25465`

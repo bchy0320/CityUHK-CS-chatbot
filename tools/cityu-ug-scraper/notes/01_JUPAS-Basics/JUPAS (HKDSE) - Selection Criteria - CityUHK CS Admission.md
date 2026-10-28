@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://admission.cs.cityu.edu.hk/before-admission-jupas/selection-criteria
 status: draft
 title: JUPAS (HKDSE) - Selection Criteria | CityUHK CS Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://admission.cs.cityu.edu.hk/before-admission-jupas/selection-criteria
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -40,5 +40,5 @@ What does the official CityUHK page say about **JUPAS (HKDSE) - Selection Criter
 ## Source
 
 - URL: https://admission.cs.cityu.edu.hk/before-admission-jupas/selection-criteria
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `76716506a91d2f52dd9c7b3203716f89bd726c49dc1d2e58aed6a1ef86e463aa`

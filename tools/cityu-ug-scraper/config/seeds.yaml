@@ -24,6 +24,8 @@ area_rules:
     area: 10_Fees-Housing
   - pattern: "curriculum|study plan|study stream|internship|major requirement|minor"
     area: 04_Curriculum
+  - pattern: "student-life|student exchange|mentoring|mentorship|exposure|career path|employment sector|common myth|after-graduation|final-year-project"
+    area: 04_Curriculum
   - pattern: "course|subject|module|credit unit"
     area: 06_Courses
   - pattern: "programme|bsc|degree|double degree|joint bachelor"
@@ -49,10 +51,20 @@ sources:
       - https://admission.cs.cityu.edu.hk/before-admission-local/selection-steps
       - https://admission.cs.cityu.edu.hk/before-admission-local/admission-interviews
       - https://admission.cs.cityu.edu.hk/before-admission-local/admission-statistics
-      # During-study pages (curriculum / internship)
+      # During-study pages (curriculum / internship / streams / exposure)
       - https://admission.cs.cityu.edu.hk/during-study/at-a-glance
       - https://admission.cs.cityu.edu.hk/during-study/course-information
       - https://admission.cs.cityu.edu.hk/during-study/it-profession-internship-itpi
+      - https://admission.cs.cityu.edu.hk/during-study/study-streams
+      - https://admission.cs.cityu.edu.hk/during-study/exposure-learning
+      - https://admission.cs.cityu.edu.hk/during-study/final-year-project-showcase/final-year-project-showcase-2026
+      - https://admission.cs.cityu.edu.hk/during-study/final-year-project-showcase/final-year-project-showcase-2025
+      # After-graduation pages (career paths / employment sector)
+      - https://admission.cs.cityu.edu.hk/after-graduation/at-a-glance
+      - https://admission.cs.cityu.edu.hk/after-graduation/career-paths
+      - https://admission.cs.cityu.edu.hk/after-graduation/employment-sector
+      # Common myths about CS
+      - https://admission.cs.cityu.edu.hk/common-myths/ten-common-myths
     include_patterns:
       - "/admission"
       - "/programme"
@@ -61,6 +73,8 @@ sources:
       - "/non-jupas"
       - "/before-admission"
       - "/during-study"
+      - "/after-graduation"
+      - "/common-myths"
     exclude_patterns:
       - "/news/"
       - "/event/"
@@ -79,12 +93,28 @@ sources:
       - https://www.cs.cityu.edu.hk/academic-programmes/double-degree-programmes/degree-major-requirements
       - https://www.cs.cityu.edu.hk/academic-programmes/double-degree-programmes/suggested-study-plan
       - https://www.cs.cityu.edu.hk/academic-programmes/minor-ai/aims
+      # Additional double-degree / minor programmes
+      - https://www.cs.cityu.edu.hk/academic-programmes/double-degree-programmes/bsc-computer-science-and-bsc-computational-finance
+      - https://www.cs.cityu.edu.hk/academic-programmes/double-degree-programmes/bachelor-of-laws-and-bsc-in-computer-science
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-computing/aims
+      # Postgraduate programmes (MSc / MPhil / PhD)
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-artificial-intelligence/aims
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-computer-science/aims
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-cybersecurity/aims
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-electronic-commerce/aims
+      - https://www.cs.cityu.edu.hk/academic-programmes/master-philosophy-doctor-philosophy/aims
+      # Student life (exchange / mentoring)
+      - https://www.cs.cityu.edu.hk/student-life/student-exchange/student-exchange-outbound
+      - https://www.cs.cityu.edu.hk/student-life/student-mentoring/student-mentoring-scheme
+      - https://www.cs.cityu.edu.hk/student-life/student-mentoring/professional-mentorship-programme
     include_patterns:
       - "/programme"
       - "/curriculum"
       - "/course"
       - "/admission"
       - "/academic-programmes"
+      - "/student-life"
+      - "/msc-"
     exclude_patterns:
       - "/news/"
       - "/event/"

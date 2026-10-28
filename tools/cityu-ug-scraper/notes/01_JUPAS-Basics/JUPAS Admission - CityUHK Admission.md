@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cityu.edu.hk/admo/admissions/jupas-admission
 status: draft
 title: JUPAS Admission | CityUHK Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cityu.edu.hk/admo/admissions/jupas-admission
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -270,5 +270,5 @@ Secondary school students are welcome to apply for Direct Admission for [Joint B
 ## Source
 
 - URL: https://www.cityu.edu.hk/admo/admissions/jupas-admission
-- Fetched: 2026-10-27
-- Content hash: `adc06fe13d673239178b18df9172658978efab41ac443c79f2999fbef0994547`
+- Fetched: 2026-10-28
+- Content hash: `789214793a7554ea2898e113cbb0546bf90e4c87d23595749b10461cf003062a`

@@ -1,7 +1,7 @@
 ---
 area: 05_Programmes
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cs.cityu.edu.hk/academic-programmes/joint-bachelors-degree-program
 status: draft
 title: Joint Bachelor&#39;s Degree Program | Department of Computer Science
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cs.cityu.edu.hk/academic-programmes/joint-bachelors-degree-program
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -36,5 +36,5 @@ You may contact the CityUHK-ColumbiaU Joint Bachelor's Degree Program Coordinato
 ## Source
 
 - URL: https://www.cs.cityu.edu.hk/academic-programmes/joint-bachelors-degree-program
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `417db4b7a04b1239f9099fba17c8e9122618ef93e1faee3f304fe03b1774cab1`

@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://admission.cs.cityu.edu.hk/before-admission-jupas/at-a-glance
 status: draft
 title: JUPAS (HKDSE) - Major in Computer Science | CityUHK CS Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://admission.cs.cityu.edu.hk/before-admission-jupas/at-a-glance
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -32,18 +32,24 @@ What does the official CityUHK page say about **JUPAS (HKDSE) - Major in Compute
 
 ### Image 1
 
-The image is a flowchart/diagram showing the progression path for the BSc Computer Science programme at CityU. It contains meaningful information.
+This image is a flowchart diagram illustrating the admission pathway for the BSc Computer Science programme at CityU. It shows a linear progression from entry qualification to the final degree.
 
-Here is the structured description:
+**Phases in order:**
 
-*   **Step 1 (Left Node):** The pathway starts with **HKDSE** (Hong Kong Diploma of Secondary Education).
-*   **Step 2 (Middle Node):** An arrow points from HKDSE to the application phase. This node contains an "APPLY" icon with a hand cursor and the text **JS1204 (BSc Computer Science)**. The bottom section of this node is labeled **JUPAS**, indicating the application route.
-*   **Step 3 (Right Node):** An arrow points from the JUPAS application node to the final box, which represents the programme structure. Inside this large container:
-    *   It shows a progression of academic years starting from **Year 1** (lightest shade), moving up to **Year 2**, **Year 3**, and finally **Year 4** (darkest shade). The shades get progressively darker, indicating progression through time.
-    *   The bottom section of the final box is labeled **Major in Computer Science**.
+1.  **HKDSE** (Hong Kong Diploma of Secondary Education): The starting point, represented by a rounded box.
+2.  **JUPAS Application (JS1204)**: Flow arrow points to a central box containing:
+    *   An "APPLY" icon with a finger cursor.
+    *   **JS1204 (BSc Computer Science)**.
+    *   **JUPAS** as the application system.
+3.  **Undergraduate Study Timeline**: Flow arrow points to a large box representing the degree program, which lists the years of study in ascending order:
+    *   Year 1
+    *   Year 2
+    *   Year 3
+    *   Year 4
+4.  **Major completion**: At the bottom of the timeline box is a final bar labelled **Major in Computer Science**.
 
 ## Source
 
 - URL: https://admission.cs.cityu.edu.hk/before-admission-jupas/at-a-glance
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `f0034dc8108bf49564364d6a75098443c3421f715d19a84f25fbcbf05de3cbf6`

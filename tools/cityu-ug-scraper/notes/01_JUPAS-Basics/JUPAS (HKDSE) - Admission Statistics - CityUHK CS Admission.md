@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://admission.cs.cityu.edu.hk/before-admission-jupas/admission-statistic
 status: draft
 title: JUPAS (HKDSE) - Admission Statistics | CityUHK CS Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://admission.cs.cityu.edu.hk/before-admission-jupas/admission-statistic
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -56,5 +56,5 @@ What does the official CityUHK page say about **JUPAS (HKDSE) - Admission Statis
 ## Source
 
 - URL: https://admission.cs.cityu.edu.hk/before-admission-jupas/admission-statistic
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `62c86646a30f76b4e4cdd6fd7d3e48f0a488e061feb723e94bf2c8ee4238815c`

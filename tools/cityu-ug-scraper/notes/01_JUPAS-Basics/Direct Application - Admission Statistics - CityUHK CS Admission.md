@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://admission.cs.cityu.edu.hk/before-admission-local/admission-statistics
 status: draft
 title: Direct Application - Admission Statistics | CityUHK CS Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://admission.cs.cityu.edu.hk/before-admission-local/admission-statistics
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -60,5 +60,5 @@ What does the official CityUHK page say about **Direct Application - Admission S
 ## Source
 
 - URL: https://admission.cs.cityu.edu.hk/before-admission-local/admission-statistics
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `eb6979f68867c9b01822d499971c757f5b5c68235faef2ab0cfa6527d31738ad`

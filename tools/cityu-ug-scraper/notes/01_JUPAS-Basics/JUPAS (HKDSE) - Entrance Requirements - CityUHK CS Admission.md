@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://admission.cs.cityu.edu.hk/before-admission-jupas/entrance-requirement
 status: draft
 title: JUPAS (HKDSE) - Entrance Requirements | CityUHK CS Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://admission.cs.cityu.edu.hk/before-admission-jupas/entrance-requirement
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -59,5 +59,5 @@ For admissions, JUPAS HKDSE applicants must meet the following entrance requirem
 ## Source
 
 - URL: https://admission.cs.cityu.edu.hk/before-admission-jupas/entrance-requirement
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `dc753813da34794e7f7e74c337ae0fa4045ab87a2ced0ff1a86e54bfaf0d8dbe`

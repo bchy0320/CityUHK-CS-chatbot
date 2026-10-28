@@ -1,7 +1,7 @@
 ---
 area: 04_Curriculum
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://admission.cs.cityu.edu.hk/during-study/it-profession-internship-itpi
 status: draft
 title: IT Professional Internship (ITPI) | CityUHK CS Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://admission.cs.cityu.edu.hk/during-study/it-profession-internship-itpi
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -63,26 +63,31 @@ After completing two years of full-time study, students will join the IT Profess
 
 ### Image 1
 
-The image contains meaningful information in the form of an infographic displaying testimonial quotes. Here is the structured description:
+The image contains meaningful information in the form of a testimonial/infographic layout. Here is the structured description:
 
 # Excellent Comments from Internship Companies
 
-**Meaning:** A collection of four feedback quotes from different companies regarding the performance of an intern or student, highlighting their skills, professionalism, and contributions.
+This image presents four separate customer testimonials from companies that hosted interns, along with their associated company logos.
 
-## Testimonials (4 Quadrants)
+### Testimonial 1: Shanghai Commercial Bank
+*   **Comment:** "Enthusiastic in work. Proactively finding solution to improve UAT efficiency. Willing to learn the non-IT skill and business knowledge. Got positive feedback from business users and other IT teams."
+*   **Attribution (Logo):** 上海商业银行 / SHANGHAI COMMERCIAL BANK
 
-*   **Top-Left (Shanghai Commercial Bank):**
-    *   **Quote:** "Enthusiastic in work. Proactively finding solution to improve UAT efficiency. Willing to learn the non-IT skill and business knowledge. Got positive feedback from business users and other IT teams."
-*   **Top-Right (The Hong Kong Jockey Club):**
-    *   **Quote:** "She has adapted well into her role which requires her to regularly work alone to complete tight deadlines. She has completed her assignments diligently and on time. Overall, she has made significant contributions to the success of the IT programme and I take this opportunity to wish her the very best in her future studies, work and career."
-*   **Bottom-Left (Deloitte):**
-    *   **Quote:** "He has demonstrated professionalism when conducting the works assigned to him. He is the major player in the software development and at numerous times gone above and beyond the call of duty."
-*   **Bottom-Right (Bank of East Asia - BEA):**
-    *   **Quote:** "He is a good team member and able to deliver tasks within schedule."
+### Testimonial 2: The Hong Kong Jockey Club
+*   **Comment:** "She has adapted well into her role which requires her to regularly work alone to complete tight deadlines. She has completed her assignments diligently and on time. Overall, she has made significant contributions to the success of the IT programme and I take this opportunity to wish her the very best in her future studies, work and career."
+*   **Attribution (Logo):** 香港賽馬會 / The Hong Kong Jockey Club
 
-## Relationships
-*   **Header:** "Excellent Comments from Internship Companies" with a small icon of people.
-*   **Logos:** Each quote is explicitly attributed to the respective company logo located below the text bubble (Shanghai Commercial Bank, The Hong Kong Jockey Club, Deloitte, BEA).
+### Testimonial 3: Deloitte
+*   **Comment:** "He has demonstrated professionalism when conducting the works assigned to him. He is the major player in the software development and at numerous times gone above and beyond the call of duty."
+*   **Attribution (Logo):** Deloitte
+
+### Testimonial 4: BEA 東亞銀行
+*   **Comment:** "He is a good team member and able to deliver tasks within schedule."
+*   **Attribution (Logo):** BEA 東亞銀行
+
+**Header Elements:**
+*   There is an icon at the top of the page depicting a group of people with checkmarks above them.
+*   The main title reads: "Excellent Comments from Internship Companies".
 
 ## Charts
 
@@ -100,5 +105,5 @@ The image contains meaningful information in the form of an infographic displayi
 ## Source
 
 - URL: https://admission.cs.cityu.edu.hk/during-study/it-profession-internship-itpi
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `80d4e9f8b035c17740a79ce3f645c92d1e211a2af5a07efb09145d65f35ed9a8`

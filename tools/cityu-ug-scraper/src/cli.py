@@ -105,6 +105,7 @@ def generate(
         raise typer.Exit(1)
 
     count = 0
+    used_paths: set[Path] = set()
     for meta_path in sorted(date_dir.glob("*/meta.json")):
         meta = json.loads(meta_path.read_text(encoding="utf-8"))
         result = FetchResult(
@@ -116,7 +117,7 @@ def generate(
             text_path=meta_path.parent / "text.md",
         )
         try:
-            out = generate_note(cfg, result, notes_root)
+            out = generate_note(cfg, result, notes_root, used_paths)
             count += 1
             console.print(f"  [green]OK[/green] {meta['url']} -> {out}")
         except (FileNotFoundError, ValueError) as exc:
@@ -186,6 +187,7 @@ def _run_generate(cfg, raw_root: Path, notes_root: Path, date_str: str) -> None:
     date_dir = raw_root / date_str
     if not date_dir.exists():
         return
+    used_paths: set[Path] = set()
     for meta_path in sorted(date_dir.glob("*/meta.json")):
         meta = json.loads(meta_path.read_text(encoding="utf-8"))
         result = FetchResult(
@@ -197,7 +199,7 @@ def _run_generate(cfg, raw_root: Path, notes_root: Path, date_str: str) -> None:
             text_path=meta_path.parent / "text.md",
         )
         try:
-            out = generate_note(cfg, result, notes_root)
+            out = generate_note(cfg, result, notes_root, used_paths)
             console.print(f"  OK {meta['url']} -> {out}")
         except (FileNotFoundError, ValueError) as exc:
             console.print(f"  SKIP {meta['url']}: {exc}")

@@ -1,7 +1,7 @@
 ---
 area: 05_Programmes
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/aims
 status: draft
 title: Bachelor of Science in Computer Science | Department of Computer Science
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/aims
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -71,5 +71,5 @@ For students who desire to pursue postgraduate studies or a career in research a
 ## Source
 
 - URL: https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/aims
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `f4e338b9c4acd72dea36fe4721724205c9a5c1f0bb61bb5c689226d502433833`

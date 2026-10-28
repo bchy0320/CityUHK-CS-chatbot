@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cityu.edu.hk/admissions/ug/
 status: draft
 title: Undergraduate Admissions | City University of Hong Kong
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cityu.edu.hk/admissions/ug/
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -28,5 +28,5 @@ Our unique Discovery-enriched Curriculum (DEC) encourages every student at CityU
 ## Source
 
 - URL: https://www.cityu.edu.hk/admissions/ug/
-- Fetched: 2026-10-27
-- Content hash: `725eca54dd1794b323d596cd318ac7a96e51e0e2308f588a04bd06ab2ad30675`
+- Fetched: 2026-10-28
+- Content hash: `f8ba2c412bf421d1c8d3afcdc916777388d6c51c7d08ab71f2d2ba67fbe20f69`

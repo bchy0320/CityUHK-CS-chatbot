@@ -1,7 +1,7 @@
 ---
-area: 08_Scholarships
+area: 09_Undergraduate-General
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cs.cityu.edu.hk/
 status: draft
 title: Department of Computer Science
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cs.cityu.edu.hk/
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -101,9 +101,9 @@ Awards at Columbia University in the City of New York, USA
 
 17th F1Tenth Autonomous Grand Prix on the 2024 Cyber-Physical Systems and Internet-of-Things Week
 
-Best Conference Paper Prize at the 25th IEEE International Conference on Industrial Technology (ICIT)
-
 Highly Ranked Scholars™ by ScholarGPS
+
+Best Conference Paper Prize at the 25th IEEE International Conference on Industrial Technology (ICIT)
 
 ASPLOS 2024 Best Paper Award
 
@@ -195,9 +195,9 @@ Awards at Columbia University in the City of New York, USA
 
 17th F1Tenth Autonomous Grand Prix on the 2024 Cyber-Physical Systems and Internet-of-Things Week
 
-Best Conference Paper Prize at the 25th IEEE International Conference on Industrial Technology (ICIT)
-
 Highly Ranked Scholars™ by ScholarGPS
+
+Best Conference Paper Prize at the 25th IEEE International Conference on Industrial Technology (ICIT)
 
 ASPLOS 2024 Best Paper Award
 
@@ -216,5 +216,5 @@ Hong Kong Institution of Engineers (HKIE) Scholarship
 ## Source
 
 - URL: https://www.cs.cityu.edu.hk/
-- Fetched: 2026-10-27
-- Content hash: `00c498b5c70da1825149f95d62d288884a2650dcc703963da13676b0a9352b28`
+- Fetched: 2026-10-28
+- Content hash: `e4dd3764f8570fd6f9c2f5aa7df8acbab04597db514659dcf633ea432dda27e4`

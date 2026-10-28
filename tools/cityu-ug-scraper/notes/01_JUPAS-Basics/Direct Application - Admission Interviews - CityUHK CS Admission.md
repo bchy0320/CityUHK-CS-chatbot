@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://admission.cs.cityu.edu.hk/before-admission-local/admission-interviews
 status: draft
 title: Direct Application - Admission Interviews | CityUHK CS Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://admission.cs.cityu.edu.hk/before-admission-local/admission-interviews
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -53,23 +53,17 @@ Shortlisted applicants will be invited to interview. You may watch the video bel
 
 ### Image 1
 
-The image contains meaningful text information presented as a set of question bubbles and a diagram. Here is the structured description:
+The image contains a set of guiding questions, likely for prospective students. It is not purely decorative. Here is the structured description:
 
-**Content Overview**
-The image is an informational graphic consisting of four teal speech bubbles containing questions and a small iconographic diagram at the bottom with a purple "I want..." label.
-
-**Text Elements (Speech Bubbles)**
-*   **Top Left:** "What are the main features of our programme?"
-*   **Middle Left:** "Why choose our programme?"
-*   **Top Right:** "What activities are you most interested in being involved in after school?"
-*   **Middle Right:** "What are your career goals in the future?"
-
-**Diagrammatic Element**
-*   At the bottom, there is an icon of a person (applicant/student) and another figure at a desk with a computer (likely an advisor or interviewer).
-*   To the right of these figures is a maroon speech bubble containing the text: "I want..." This suggests the start of a personal statement or expression of interest by the applicant.
+*   **Top Left Question:** "What are the main features of our programme?"
+*   **Top Right Question:** "What activities are you most interested in being involved in after school?"
+*   **Bottom Left Question:** "Why choose our programme?"
+*   **Bottom Right Question:** "What are your career goals in the future?"
+*   **Bottom Center Element:** A graphic of an interviewer or advisor sitting behind a desk with a document, alongside a potential student.
+*   **Bottom Right Element:** A speech bubble from the student figure that reads "I want..."
 
 ## Source
 
 - URL: https://admission.cs.cityu.edu.hk/before-admission-local/admission-interviews
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `7bb8cb42e74b467a996bfd94a1b65f3b2c94983a6a7450249def16adbe781911`

@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cityu.edu.hk/admo/admissions/non-jupas-senior-year-admission
 status: draft
 title: Non-JUPAS Senior Year Admission | CityUHK Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cityu.edu.hk/admo/admissions/non-jupas-senior-year-admission
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -199,5 +199,5 @@ SALSA is initiated by the University Grants Committee to offer university educat
 ## Source
 
 - URL: https://www.cityu.edu.hk/admo/admissions/non-jupas-senior-year-admission
-- Fetched: 2026-10-27
-- Content hash: `23923ec83375e4483f43855655bf55a7b0a17ae553cbd8e15aa8555d09416ba5`
+- Fetched: 2026-10-28
+- Content hash: `f9c96535afaefe1d06a1df8ce8a80a1cf52bfbd31a0c673fad618ca3fe50cbcf`

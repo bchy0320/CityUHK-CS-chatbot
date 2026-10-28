@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://admission.cs.cityu.edu.hk/before-admission-jupas/jupas-interview
 status: draft
 title: JUPAS (HKDSE) - JUPAS Interview | CityUHK CS Admission
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://admission.cs.cityu.edu.hk/before-admission-jupas/jupas-interview
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -45,5 +45,5 @@ Shortlisted applicants will be invited to interview. You may watch the video bel
 ## Source
 
 - URL: https://admission.cs.cityu.edu.hk/before-admission-jupas/jupas-interview
-- Fetched: 2026-10-27
+- Fetched: 2026-10-28
 - Content hash: `eddbd7bca23af0765e56940934340c663d86b1f2a97412fa2d8d862b08062661`

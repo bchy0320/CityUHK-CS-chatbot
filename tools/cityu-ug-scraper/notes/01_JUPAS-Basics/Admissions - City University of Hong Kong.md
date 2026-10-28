@@ -1,7 +1,7 @@
 ---
 area: 01_JUPAS-Basics
 retrieved: 2026-10
-source_fetched: '2026-10-27'
+source_fetched: '2026-10-28'
 source_url: https://www.cityu.edu.hk/admissions/
 status: draft
 title: Admissions | City University of Hong Kong
@@ -13,7 +13,7 @@ vault: CityUHK-Undergraduate-FAQ
 
 > [!tip] Source
 > Extracted from: https://www.cityu.edu.hk/admissions/
-> Fetched: 2026-10-27
+> Fetched: 2026-10-28
 
 ## Question
 
@@ -38,5 +38,5 @@ CityUHK offers a wide range of full-time and part-time Master’s programmes, fr
 ## Source
 
 - URL: https://www.cityu.edu.hk/admissions/
-- Fetched: 2026-10-27
-- Content hash: `16a6bafef5d3a29dcf936bec5156d8b05f347840dd2907b9474c9225e80f3ba9`
+- Fetched: 2026-10-28
+- Content hash: `ac9348c95d934abdf3ebfb6989f0e91ebf22a687c2175a7ba42fa2bc79b82ef9`
