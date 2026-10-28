@@ -1,0 +1,116 @@
+﻿# CityU UG scraper seed configuration.
+#
+# This file defines the bounded set of official CityUHK pages to fetch.
+# v1 scope: admission + programme + curriculum official pages only.
+# Keep this list small and stable; expand incrementally after validation.
+
+vault_name: CityUHK-Undergraduate-FAQ
+default_area: 09_Undergraduate-General
+
+# Polite crawling settings
+fetch:
+  delay_seconds: 1.0          # delay between requests to the same host
+  timeout_seconds: 30
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+  respect_robots: true
+  max_retries: 2
+
+# Area classification rules. First matching rule wins; fall back to default_area.
+# Order matters: more specific topics are matched before the broad "admission" rule.
+area_rules:
+  - pattern: "scholarship|award|bursary|financial aid"
+    area: 08_Scholarships
+  - pattern: "tuition|fee|charges|housing|hostel|accommodation"
+    area: 10_Fees-Housing
+  - pattern: "curriculum|study plan|study stream|internship|major requirement|minor"
+    area: 04_Curriculum
+  - pattern: "course|subject|module|credit unit"
+    area: 06_Courses
+  - pattern: "programme|bsc|degree|double degree|joint bachelor"
+    area: 05_Programmes
+  - pattern: "jupas|non-jupas|admission|admissions|entrance requirement|selection"
+    area: 01_JUPAS-Basics
+
+# Seed sources. Each entry is a starting point; the crawler follows links
+# only within the same host and matching include_patterns.
+sources:
+  - name: cs_admission
+    base_urls:
+      - https://admission.cs.cityu.edu.hk/
+      # JUPAS admission pages (official, stable)
+      - https://admission.cs.cityu.edu.hk/before-admission-jupas/at-a-glance
+      - https://admission.cs.cityu.edu.hk/before-admission-jupas/entrance-requirement
+      - https://admission.cs.cityu.edu.hk/before-admission-jupas/selection-criteria
+      - https://admission.cs.cityu.edu.hk/before-admission-jupas/admission-statistic
+      - https://admission.cs.cityu.edu.hk/before-admission-jupas/jupas-interview
+      # Local / non-JUPAS admission pages
+      - https://admission.cs.cityu.edu.hk/before-admission-local/at-a-glance
+      - https://admission.cs.cityu.edu.hk/before-admission-local/entrance-requirement
+      - https://admission.cs.cityu.edu.hk/before-admission-local/selection-steps
+      - https://admission.cs.cityu.edu.hk/before-admission-local/admission-interviews
+      - https://admission.cs.cityu.edu.hk/before-admission-local/admission-statistics
+      # During-study pages (curriculum / internship)
+      - https://admission.cs.cityu.edu.hk/during-study/at-a-glance
+      - https://admission.cs.cityu.edu.hk/during-study/course-information
+      - https://admission.cs.cityu.edu.hk/during-study/it-profession-internship-itpi
+    include_patterns:
+      - "/admission"
+      - "/programme"
+      - "/curriculum"
+      - "/jupas"
+      - "/non-jupas"
+      - "/before-admission"
+      - "/during-study"
+    exclude_patterns:
+      - "/news/"
+      - "/event/"
+      - "/media/"
+      - "/zh-hk/"
+      - "/zh-cn/"
+
+  - name: cs_department
+    base_urls:
+      - https://www.cs.cityu.edu.hk/
+      # Programme overviews (official, stable)
+      - https://www.cs.cityu.edu.hk/academic-programmes/programmes-overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/joint-bachelors-degree-program
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/aims
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/aims
+      - https://www.cs.cityu.edu.hk/academic-programmes/double-degree-programmes/degree-major-requirements
+      - https://www.cs.cityu.edu.hk/academic-programmes/double-degree-programmes/suggested-study-plan
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-ai/aims
+    include_patterns:
+      - "/programme"
+      - "/curriculum"
+      - "/course"
+      - "/admission"
+      - "/academic-programmes"
+    exclude_patterns:
+      - "/news/"
+      - "/event/"
+      - "/people/"
+      - "/zh-hk/"
+      - "/zh-cn/"
+
+  - name: cityu_ug_admission
+    base_urls:
+      - https://www.cityu.edu.hk/admissions/
+      - https://www.cityu.edu.hk/admissions/ug/
+      # Official admission routes (JUPAS / non-JUPAS / senior year)
+      - https://www.cityu.edu.hk/admo/admissions/jupas-admission
+      - https://www.cityu.edu.hk/admo/admissions/non-jupas-year-1-admission
+      - https://www.cityu.edu.hk/admo/admissions/non-jupas-senior-year-admission
+      # Scholarships and programme catalogue
+      - https://www.cityu.edu.hk/en/admissions/scholarship
+      - https://www.cityu.edu.hk/en/academic/catalogue
+    include_patterns:
+      - "/admissions/"
+      - "/admo/"
+      - "/ug/"
+      - "/programme/"
+      - "/academic/"
+    exclude_patterns:
+      - "/news/"
+      - "/event/"
+      - "/zh-hk/"
+      - "/zh-cn/"

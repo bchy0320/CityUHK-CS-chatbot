@@ -21,3 +21,9 @@ Thumbs.db
 
 # Local tooling session state
 .dsh/
+
+# CityU UG scraper
+tools/cityu-ug-scraper/raw/
+tools/cityu-ug-scraper/.venv/
+tools/cityu-ug-scraper/**/__pycache__/
+tools/cityu-ug-scraper/**/*.pyc
