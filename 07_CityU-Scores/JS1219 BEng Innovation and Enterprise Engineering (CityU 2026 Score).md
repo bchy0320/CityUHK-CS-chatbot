@@ -39,4 +39,4 @@ These are weighted admission scores and are not comparable across programmes or 
 
 ## Source
 
-CityUHK 'Admission Score Formula and Admissions Scores for 2026 JUPAS' (official PDF, cityu.edu.hk/admo).
+CityUHK 'Admission Score Formula and Admissions Scores for 2026 JUPAS' (official PDF): https://www.cityu.edu.hk/admo/sites/default/files/2026-01/2026_JUPAS_AdmissionScoreFormulaAndScores.pdf

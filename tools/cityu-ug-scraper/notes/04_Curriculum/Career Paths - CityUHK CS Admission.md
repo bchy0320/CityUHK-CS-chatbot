@@ -29,44 +29,55 @@ We use cookies to ensure you get the best experience on our website.
 
 ### Image 1
 
-The image contains a diagram and meaningful text. It depicts a career progression ladder for IT support.
+This image is an informational diagram depicting a career progression path.
 
-**Title:** Career Path for System Support
-**Subtitle:** e.g. in the IT Department of an international company
+# Career Path for System Support
 
-**Career Progression (from bottom to top):**
-1. **Assistant Computer Officer**
+**Context:** e.g. in the IT Department of an international company
+
+The image shows a 5-step ascending staircase, representing a typical career progression from bottom to top:
+
+1. **Assistant Computer Officer** (Bottom step)
 2. **Computer Officer**
 3. **Senior Computer Officer**
 4. **System Manager**
-5. **Director**
+5. **Director** (Top step)
 
-**Required Skills Progression (from bottom to top, indicated by arrows):**
-*   **Programming Skills** (Prerequisite for the lower levels)
-*   **System Design & Management Skills** (Prerequisite for mid-level roles)
-*   **IT Management Skills** (Prerequisite for the highest roles)
+## Skill Requirements
+On the right side of the image, there are three text boxes with upward-pointing arrows, indicating the skills required to advance to the corresponding higher levels:
+
+* **Programming Skills** (Basic level): Connects upward to the next skill tier.
+* **System Design & Management Skills** (Intermediate level): Connects upward to the next skill tier.
+* **IT Management Skills** (Advanced level): Located at the top, corresponding to the highest roles (typically Director or System Manager).
 
 ### Image 2
 
-The image is a diagram titled **"Career Path for Software Development"** with a subtitle "e.g. in software vendor companies". It illustrates a progression of roles using a 3D staircase, where each higher step represents a higher career level.
+This image contains a diagram with meaningful information. Here is a structured Markdown description of its contents:
 
-Here is the structured breakdown of the information:
+# Career Path for Software Development
 
-**Steps in Order (from bottom to top):**
+**Context:** e.g. in software vendor companies
 
-1.  **Analyst Programmer** — Entry/baseline level.
-2.  **Senior Analyst Programmer** — Next step up.
-3.  **Project Leader** — Third step up.
-4.  **Project Manager** — Fourth step up.
-5.  **Director** — Top step.
+## Structure
+The image is a 3D staircase diagram with five ascending steps and a corresponding set of skill requirement labels on the right side, connected by upward-pointing arrows.
 
-**Relationships and Skills Progression:**
+## Career Progression (Bottom to Top)
+1. **Analyst Programmer**
+2. **Senior Analyst Programmer**
+3. **Project Leader**
+4. **Project Manager**
+5. **Director**
 
-On the right side of the stairs, there are three skill boxes with upward-pointing arrows showing how required skills evolve as you climb the path:
+## Required Skills Progression (Bottom to Top)
+*   **Programming Skills** (Required at the lowest level)
+*   *Upward arrow connecting to:*
+*   **System Design & Management Skills**
+*   *Upward arrow connecting to:*
+*   **IT Management Skills** (Required at the highest level)
 
-*   **Programming Skills** (bottom): Associated with the lower rungs of the career ladder.
-*   **System Design & Management Skills** (middle): Representing a transition phase as you move up.
-*   **IT Management Skills** (top): Associated with the highest positions (Project Manager and Director).
+## Relationships
+*   **Sequential:** The career path moves strictly upward through the five listed roles.
+*   **Skill Alignment:** The skill levels correspond to the career stages: entry-level roles require Programming Skills; mid-level roles require System Design & Management Skills; and senior/executive roles (Director) require IT Management Skills. The arrows indicate the transition and acquisition of these skills as one climbs the career ladder.
 
 ## Source
 

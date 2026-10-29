@@ -271,4 +271,4 @@ Secondary school students are welcome to apply for Direct Admission for [Joint B
 
 - URL: https://www.cityu.edu.hk/admo/admissions/jupas-admission
 - Fetched: 2026-10-28
-- Content hash: `789214793a7554ea2898e113cbb0546bf90e4c87d23595749b10461cf003062a`
+- Content hash: `e0c3977f7c5999af0f2b0600e4a9197e1d9905c020ae933a9f16b5529e03265c`

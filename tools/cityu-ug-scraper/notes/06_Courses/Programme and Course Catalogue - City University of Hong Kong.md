@@ -29,4 +29,4 @@ What does the official CityUHK page say about **Programme and Course Catalogue |
 
 - URL: https://www.cityu.edu.hk/en/academic/catalogue
 - Fetched: 2026-10-28
-- Content hash: `9e90bde542893334346d89b1724f15acb708f55d4d1f389fcbfcc1a3f11ead52`
+- Content hash: `bd44d38cbf2c1e6c637c9cbde400a06ebf886f80903aea3c0628e337719df642`

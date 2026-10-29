@@ -18,7 +18,7 @@ What is the 2025 JUPAS admission score and formula for CityU JS1001 BBA Global B
 
 ## Answer
 
-**JS1001 BBA Global Business (Features: 3 Exchanges/Joint Bachelor’s Degree Program with Columbia University (US)/Overseas Summer School & Study Tour/Business Consultancy Project/Scholarship and Sponsorship)** (College of Business). 2025 JUPAS admission score formula: **3 core + 2 elective subjects**.
+**JS1001 BBA Global Business (Features: 3 Exchanges/Joint Bachelorâ€™s Degree Program with Columbia University (US)/Overseas Summer School & Study Tour/Business Consultancy Project/Scholarship and Sponsorship)** (College of Business). 2025 JUPAS admission score formula: **3 core + 2 elective subjects**.
 
 **Published 2025 admissions scores (from 2024-entry Main Round offers): Median 29, Lower Quartile 25.5.**
 
@@ -38,4 +38,4 @@ These are weighted admission scores and are not comparable across programmes or 
 
 ## Source
 
-CityUHK 'Admission Score Formula and Admissions Scores for 2025 JUPAS' (official PDF, cityu.edu.hk/admo).
+CityUHK 'Admission Score Formula and Admissions Scores for 2025 JUPAS' (official PDF, cityu.edu.hk/admo). Historical PDF for 2025 not found on the current CityUHK website; see the JUPAS Admission page for the latest data: https://www.cityu.edu.hk/admo/admissions/jupas-admission

@@ -34,36 +34,45 @@ What does the official CityUHK page say about **Career Opportunity | CityUHK CS 
 
 ### Image 1
 
-The image is a diagram showing the career paths or specializations available after completing the "BSc (Hons) in Computer Science" degree. The diagram features a central purple square with four arrows pointing outward, surrounded by nine green boxes that list specific career areas and example job titles.
-
-Here is the structured breakdown of the information:
+This image contains meaningful information in the form of a diagram. Here is a structured Markdown description of its contents:
 
 **Central Element:**
-*   **BSc (Hons) in Computer Science**
+*   **BSc (Hons) in Computer Science** (displayed in the center with a four-way arrow pointing outward).
 
-**Career Paths/Phases (Branches):**
+**Branches/Career Paths (surrounding boxes, listed clockwise from top-left):**
 
 1.  **Database Management**
-    *   *Example Jobs:* Database developers, Database administrator
+    *   Database developers
+    *   Database administrator
 2.  **Software Development**
-    *   *Example Jobs:* Software engineer, System analyst
+    *   Software engineer
+    *   System analyst
 3.  **Web and Internet**
-    *   *Example Jobs:* Webmaster, Internet consultant
+    *   Webmaster
+    *   Internet consultant
 4.  **Telecommunications and Networking**
-    *   *Example Jobs:* Network engineer/consultant, Network administrator
+    *   Network engineer/consultant
+    *   Network administrator
 5.  **Others**
-    *   *Example Jobs:* ICAC investigator, Management trainee, Set up your own company
+    *   ICAC investigator
+    *   Management trainee
+    *   Set up your own company
 6.  **Academia and Research**
-    *   *Example Jobs:* Computer science professor, Computer scientist/researcher
+    *   Computer science professor
+    *   Computer scientist/researcher
 7.  **IT-Related Jobs**
-    *   *Example Jobs:* EDP auditor, Enterprise consultant, Multimedia developer
+    *   EDP auditor
+    *   Enterprise consultant
+    *   Multimedia developer
 8.  **Information Systems Management**
-    *   *Example Jobs:* Computer security specialist, Management/IT consultant
+    *   Computer security specialist
+    *   Management/IT consultant
 9.  **Training & System Support**
-    *   *Example Jobs:* Technical supports, Trainer, software applications
+    *   Technical supports
+    *   Trainer, software applications
 
 **Relationships:**
-The central degree leads directly to nine distinct career areas. The arrows indicate that graduates can branch out into any of these specialized fields after completing the program.
+The diagram illustrates the various career paths and job opportunities available to graduates of the "BSc (Hons) in Computer Science" programme. The central degree acts as the source that branches out into the nine distinct career categories listed above.
 
 ## Source
 

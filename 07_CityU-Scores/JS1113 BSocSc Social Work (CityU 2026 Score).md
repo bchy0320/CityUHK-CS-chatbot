@@ -18,7 +18,7 @@ What is the 2026 JUPAS admission score and formula for CityU JS1113 BSocSc Socia
 
 ## Answer
 
-**JS1113 BSocSc Social Work (Features: Social Engagement and Concern for People’s Health and Well-Being / Human Diversities and Sustainability / People-in-Environment Interventions)** (College of Liberal Arts and Social Sciences). 2026 JUPAS main admission score formula: **Best 4 subjects (include English)**.
+**JS1113 BSocSc Social Work (Features: Social Engagement and Concern for Peopleâ€™s Health and Well-Being / Human Diversities and Sustainability / People-in-Environment Interventions)** (College of Liberal Arts and Social Sciences). 2026 JUPAS main admission score formula: **Best 4 subjects (include English)**.
 
 Subject weightings (2026): 2: English; 1: other elective subjects.
 
@@ -43,4 +43,4 @@ These are weighted admission scores and are not comparable across programmes or 
 
 ## Source
 
-CityUHK 'Admission Score Formula and Admissions Scores for 2026 JUPAS' (official PDF, cityu.edu.hk/admo).
+CityUHK 'Admission Score Formula and Admissions Scores for 2026 JUPAS' (official PDF): https://www.cityu.edu.hk/admo/sites/default/files/2026-01/2026_JUPAS_AdmissionScoreFormulaAndScores.pdf

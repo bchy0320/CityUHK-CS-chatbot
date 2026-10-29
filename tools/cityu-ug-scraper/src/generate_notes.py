@@ -37,17 +37,55 @@ def classify_area(config: Config, url: str, title: str, text: str) -> str:
     return config.default_area
 
 
+_ACRONYMS = {"it", "ai", "msc", "bsc", "pgc", "phd", "meng", "beng", "rgc"}
+
+
+def _humanize(segment: str) -> str:
+    """Convert a URL slug segment to a human-readable phrase."""
+    words = segment.replace("-", " ").strip().split()
+    return " ".join(w.upper() if w.lower() in _ACRONYMS else w.title() for w in words)
+
+
+def _programme_suffix(url: str) -> str:
+    """Return a humanized section/subsection suffix for programme sub-pages.
+
+    Many /academic-programmes/<programme>/<section>/... pages share the same
+    generic <title> (just the programme name, e.g. "Bachelor of Science in
+    Computer Science | Department of Computer Science"). Append the
+    section/subsection from the URL path so each note has a distinct,
+    descriptive title instead of a bare programme name.
+    """
+    parts = [p for p in urlparse(url).path.split("/") if p]
+    if len(parts) >= 3 and parts[0] == "academic-programmes":
+        return " - ".join(_humanize(p) for p in parts[2:])
+    return ""
+
+
 def _note_title(result: FetchResult) -> str:
     """Derive a human-readable note title from the page title or URL."""
     if result.title:
-        return result.title.strip()
+        title = result.title.strip()
+        # CityUHK Scholars profile pages have a <title> like
+        # "Cong WANG\n      -  CityUHK Scholars". Strip the trailing
+        # " - CityUHK Scholars" suffix and collapse internal whitespace
+        # so the note title/filename is clean and Windows-safe.
+        title = re.sub(r"\s*-\s*CityUHK Scholars\s*$", "", title, flags=re.IGNORECASE)
+        title = re.sub(r"\s+", " ", title).strip()
+        # Disambiguate generic programme titles with the URL section/subsection.
+        suffix = _programme_suffix(result.url)
+        if suffix:
+            title = f"{title} - {suffix}"
+        return title
     return result.slug.replace("-", " ").title()
 
 
 def _safe_filename(name: str) -> str:
     """Make a string safe for use as a filename on Windows."""
     # Windows-illegal characters: < > : " / \ | ? *
-    return re.sub(r'[<>:"/\\|?*]', "-", name).strip()
+    name = re.sub(r'[<>:"/\\|?*]', "-", name)
+    # Strip control characters (newlines, tabs) that are invalid in filenames.
+    name = re.sub(r"[\x00-\x1f\x7f]", "", name)
+    return name.strip()
 
 
 def _unique_path(path: Path, used: set[Path]) -> Path:

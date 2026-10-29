@@ -33,51 +33,46 @@ JUPAS Code: JS1204 BSc Computer Science
 
 ### Image 1
 
-Based on the image provided, here is the structured description of the curriculum map:
+This image contains a curriculum map/flowchart for the **BSc Computer Science (JS1204)** programme. Here is the structured breakdown:
 
-# BSc Computer Science (JS1204) Curriculum Map
+**Overall Structure:**
+A four-year timeline (Year 1 to Year 4) showing the progression of courses and requirements.
 
-This image is a timeline/curriculum map showing the progression of coursework over four years of study.
+**Year-by-Year Curriculum Map:**
 
-## Phases/Steps (Years 1-4)
+*   **Year 1:**
+    *   College Required Courses (e.g., Programming, Phy / Chem / Bio)
+    *   *+*
+    *   CS Core Courses
+    *   *+*
+    *   Gateway Education
+*   **Year 2:**
+    *   CS Core Courses (e.g., Networks, Operating Systems, Software Design, Data Structures, Computer Organization and Programming)
+    *   *+*
+    *   Gateway Education
+*   **Year 3:**
+    *   IT Professional Internship
+    *   *+*
+    *   CS Core Courses
+    *   *+*
+    *   Study Streams
+*   **Year 4:**
+    *   Final Year Project
+    *   *+*
+    *   Study Streams
+    *   *+*
+    *   Gateway Education
 
-**Year 1**
-*   **College Required Courses** (e.g., Programming, Phy / Chem / Bio)
-*   **CS Core Courses**
-*   **Gateway Education**
-*(Elements are stacked vertically with a "+" sign between them, indicating they are taken concurrently or are cumulative components of the year.)*
-
-**Year 2**
-*   **CS Core Courses** (e.g., Networks, Operating Systems, Software Design, Data Structures, Computer Organization and Programming)
-*   **Gateway Education**
-*(Elements are stacked vertically with a "+" sign.)*
-
-**Year 3**
-*   **IT Professional Internship**
-*   **CS Core Courses**
-*   **Study Streams**
-*(Elements are stacked vertically with a "+" sign.)*
-
-**Year 4**
-*   **Final Year Project**
-*   **Study Streams**
-*   **Gateway Education**
-*(Elements are stacked vertically with a "+" sign.)*
-
-## Branches/Decisions and Relationships
-
-*   **Gateway Education** appears in Years 1, 2, and 4.
-*   **CS Core Courses** appear in Years 1, 2, and 3.
-*   **Study Streams** appear in Years 3 and 4.
-
-## Study Streams Detail
-
-A separate section at the bottom shows the specific options for the "Study Streams" category (indicated by an orange dashed box). The branches are:
+**Study Streams (Detailed Branches):**
+A legend at the bottom details the five options for the "Study Streams" component:
 *   Information Security
 *   Multimedia Computing
 *   Software Engineering & Project Management
 *   Data Science
 *   Artificial Intelligence
+
+**Relationship Between Elements:**
+Each year's list of items is connected by a "+" symbol, indicating that these components are taken concurrently within that specific year.
 
 ## Source
 

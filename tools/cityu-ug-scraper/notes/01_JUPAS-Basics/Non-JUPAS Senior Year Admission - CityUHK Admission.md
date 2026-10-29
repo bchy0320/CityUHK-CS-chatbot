@@ -200,4 +200,4 @@ SALSA is initiated by the University Grants Committee to offer university educat
 
 - URL: https://www.cityu.edu.hk/admo/admissions/non-jupas-senior-year-admission
 - Fetched: 2026-10-28
-- Content hash: `f9c96535afaefe1d06a1df8ce8a80a1cf52bfbd31a0c673fad618ca3fe50cbcf`
+- Content hash: `402f22bdf86e3697f42e32e904d11a59140a6ce711816fcb1cf0f72125393382`

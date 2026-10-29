@@ -39,4 +39,4 @@ CityUHK offers a wide range of full-time and part-time Master’s programmes, fr
 
 - URL: https://www.cityu.edu.hk/admissions/
 - Fetched: 2026-10-28
-- Content hash: `ac9348c95d934abdf3ebfb6989f0e91ebf22a687c2175a7ba42fa2bc79b82ef9`
+- Content hash: `d98b041d7355efa1ff27fbb8b8f01ea671da1bd07c600e5c88da7123e924eb3f`

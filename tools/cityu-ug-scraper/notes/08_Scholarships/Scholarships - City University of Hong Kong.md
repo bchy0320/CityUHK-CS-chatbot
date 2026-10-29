@@ -31,4 +31,4 @@ CityUHK offers various types of scholarships and prizes which are donated by ind
 
 - URL: https://www.cityu.edu.hk/en/admissions/scholarship
 - Fetched: 2026-10-28
-- Content hash: `d5b1111df5f328534c5ca62821a707a9bbcfdc0eed33a6b1ac2009448c39bf6b`
+- Content hash: `feea87b318e5e7afbfacaaf39a0bd4ccb961a454dd7a4dab7bc66f9151c37cd3`

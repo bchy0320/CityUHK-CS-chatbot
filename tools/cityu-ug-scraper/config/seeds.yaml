@@ -18,6 +18,8 @@ fetch:
 # Area classification rules. First matching rule wins; fall back to default_area.
 # Order matters: more specific topics are matched before the broad "admission" rule.
 area_rules:
+  - pattern: "\\b(people|persons|faculty|professor|scholars)\\b"
+    area: 11_People-Faculty
   - pattern: "scholarship|award|bursary|financial aid"
     area: 08_Scholarships
   - pattern: "tuition|fee|charges|housing|hostel|accommodation"
@@ -107,6 +109,88 @@ sources:
       - https://www.cs.cityu.edu.hk/student-life/student-exchange/student-exchange-outbound
       - https://www.cs.cityu.edu.hk/student-life/student-mentoring/student-mentoring-scheme
       - https://www.cs.cityu.edu.hk/student-life/student-mentoring/professional-mentorship-programme
+      # BSc Computer Science sub-pages (admissions / curriculum / internship / showcase)
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/admissions/admissions-direct-non-jupas
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/admissions/admissions-hkdse-students
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/contact-us
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/curriculum/degree-major-requirements
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/curriculum/overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/curriculum/study-plan
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/final-year-project-showcase/final-year-project-showcase-2025
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/final-year-project-showcase/final-year-project-showcase-2026
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/graduate-employment-statistics
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/it-professional-internship/employers
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/it-professional-internship/it-internship-awards
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/it-professional-internship/overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/it-professional-internship/participating-companies
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/it-professional-internship/students
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/scholarships
+      # BSc Cybersecurity sub-pages (admissions / curriculum / internship)
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/admissions/admissions-direct-non-jupas
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/admissions/admissions-hkdse-students
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/contact-us
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/curriculum/degree-major-requirements
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/curriculum/overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/curriculum/sample-study-schedule
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/it-professional-internship/employers
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/it-professional-internship/overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/bsc-cybersecurity/it-professional-internship/students
+      # MPhil / PhD sub-pages
+      - https://www.cs.cityu.edu.hk/academic-programmes/master-philosophy-doctor-philosophy/admissions
+      - https://www.cs.cityu.edu.hk/academic-programmes/master-philosophy-doctor-philosophy/contact-us
+      - https://www.cs.cityu.edu.hk/academic-programmes/master-philosophy-doctor-philosophy/curriculum/overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/master-philosophy-doctor-philosophy/curriculum/structures
+      # Minor in AI sub-pages
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-ai/application
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-ai/contact-us
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-ai/curriculum/overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-ai/curriculum/structures
+      # Minor in Computing sub-pages
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-computing/application
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-computing/award
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-computing/contact-us
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-computing/curriculum/overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-computing/curriculum/structures
+      - https://www.cs.cityu.edu.hk/academic-programmes/minor-computing/faq
+      # MSc Artificial Intelligence sub-pages
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-artificial-intelligence/admissions
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-artificial-intelligence/contact-us
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-artificial-intelligence/curriculum
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-artificial-intelligence/faq
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-artificial-intelligence/financial-aids
+      # MSc Computer Science sub-pages
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-computer-science/admissions
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-computer-science/contact-us
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-computer-science/curriculum/overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-computer-science/curriculum/schedule
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-computer-science/curriculum/structures
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-computer-science/faq
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-computer-science/financial-aids
+      # MSc Cybersecurity sub-pages
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-cybersecurity/admissions
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-cybersecurity/contact-us
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-cybersecurity/curriculum
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-cybersecurity/faq
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-cybersecurity/financial-aids
+      # MSc Electronic Commerce sub-pages
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-electronic-commerce/admissions
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-electronic-commerce/contact-us
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-electronic-commerce/curriculum/overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-electronic-commerce/curriculum/schedule
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-electronic-commerce/curriculum/structures
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-electronic-commerce/departments
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-electronic-commerce/faq
+      - https://www.cs.cityu.edu.hk/academic-programmes/msc-electronic-commerce/financial-aids
+      # PGC Information Security sub-pages
+      - https://www.cs.cityu.edu.hk/academic-programmes/pgc-information-security/admissions
+      - https://www.cs.cityu.edu.hk/academic-programmes/pgc-information-security/aims
+      - https://www.cs.cityu.edu.hk/academic-programmes/pgc-information-security/contact-us
+      - https://www.cs.cityu.edu.hk/academic-programmes/pgc-information-security/curriculum/overview
+      - https://www.cs.cityu.edu.hk/academic-programmes/pgc-information-security/curriculum/structures
+      - https://www.cs.cityu.edu.hk/academic-programmes/pgc-information-security/education-loan
+      # Alumni sharing / student exchange course list
+      - https://www.cs.cityu.edu.hk/academic-programmes/alumni-sharing
+      - https://www.cs.cityu.edu.hk/academic-programmes/student-exchange/exchange-course-list
     include_patterns:
       - "/programme"
       - "/curriculum"
@@ -119,6 +203,39 @@ sources:
       - "/news/"
       - "/event/"
       - "/people/"
+      - "/zh-hk/"
+      - "/zh-cn/"
+
+  - name: cs_people
+    base_urls:
+      # People directory (staff listing hub)
+      - https://www.cs.cityu.edu.hk/people
+      # Professor-level academic staff profiles (CityUHK Scholars)
+      - https://scholars.cityu.edu.hk/en/persons/cong-wang(f5740c19-f6fa-4e91-a91d-5ffa518c5ece).html
+      - https://scholars.cityu.edu.hk/en/persons/nan-guan(9e79ca3d-2cca-4f62-87f5-994b68b21f80).html
+      - https://scholars.cityu.edu.hk/en/persons/hau-san-wong(d4881758-8e9f-4218-b2b5-ad33ebb52a3c).html
+      - https://scholars.cityu.edu.hk/en/persons/yuguang-fang(b2d78936-ab0a-4186-9f64-0f468013de23).html
+      - https://scholars.cityu.edu.hk/en/persons/xiaotie-deng/
+      - https://scholars.cityu.edu.hk/en/persons/xiaohua-jia(1c7937b1-03c9-4df8-994f-45e757464bb0).html
+      - https://scholars.cityu.edu.hk/en/persons/weiying-ma(c2bf066e-d0e3-4aa1-a8ae-9c213f56c127).html
+      - https://scholars.cityu.edu.hk/en/persons/jianping-wang(0ff9fbf8-eeb5-4061-bcaf-029e3f282463).html
+      - https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html
+      - https://scholars.cityu.edu.hk/en/persons/dapeng-wu(b99d0792-b295-4cc4-9d6a-08240958df5a).html
+      - https://scholars.cityu.edu.hk/en/persons/qingfu-zhang(a25373cf-62a1-4697-ad08-43678bcbf3f2).html
+      - https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html
+      - https://scholars.cityu.edu.hk/en/persons/gerhard-petrus-hancke(9e59c8eb-ba32-4075-97f7-e44e82367742).html
+      - https://scholars.cityu.edu.hk/en/persons/junhui-hou(1e5e437a-b84d-471d-af08-5f13a2d0b1c3).html
+      - https://scholars.cityu.edu.hk/en/persons/minming-li(f351532b-5c15-483e-93b4-232fce338fa5).html
+      - https://scholars.cityu.edu.hk/en/persons/shuaicheng-li(04c5b0fa-682a-4ccb-b14c-59bcb0d3d7b9).html
+      - https://scholars.cityu.edu.hk/en/persons/zhenjiang-li(23446357-88eb-4f28-9260-6208a6f743ee).html
+      - https://scholars.cityu.edu.hk/en/persons/weifa-liang(94ac1780-91ba-485b-ad44-233b839f34df).html
+      - https://scholars.cityu.edu.hk/en/persons/lusheng-wang(e10b9b10-a252-46ac-b405-35d89bad8dfe).html
+      - https://scholars.cityu.edu.hk/en/persons/shiqi-wang(78640ee3-78bd-4ec2-bb65-ccfc5cb44918).html
+      - https://scholars.cityu.edu.hk/en/persons/shengdong-zhao(d5f55de0-2df3-46fa-9811-c7a907052857).html
+    include_patterns:
+      - "/people"
+      - "/persons"
+    exclude_patterns:
       - "/zh-hk/"
       - "/zh-cn/"
 

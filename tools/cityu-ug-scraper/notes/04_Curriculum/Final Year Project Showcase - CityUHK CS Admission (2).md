@@ -52,14 +52,6 @@ Highlight of FYP Exhibition
 
 Best Poster Awards 2026 Showcase
 
-## Content Images (Vision)
-
-### Image 2
-
-The image contains a poster in the background with a title and some text indicating a research project, along with a bar chart and other graphical elements. However, the vast majority of the text and data on the poster is too small or blurry to read. The primary focus of the image is a photograph of three people in a presentation setting, which is not a data visualization itself.
-
-DECORATIVE
-
 ## Source
 
 - URL: https://admission.cs.cityu.edu.hk/during-study/final-year-project-showcase/final-year-project-showcase-2026

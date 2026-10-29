@@ -32,21 +32,32 @@ What does the official CityUHK page say about **JUPAS (HKDSE) - Major in Compute
 
 ### Image 1
 
-This image is a flowchart diagram illustrating the admission pathway for the BSc Computer Science programme at CityU. It shows a linear progression from entry qualification to the final degree.
+This image is a flowchart diagram showing the admission pathway for the BSc Computer Science programme at CityU. Here is the structured description of its meaning:
 
-**Phases in order:**
+### Admission Pathway Diagram
 
-1.  **HKDSE** (Hong Kong Diploma of Secondary Education): The starting point, represented by a rounded box.
-2.  **JUPAS Application (JS1204)**: Flow arrow points to a central box containing:
-    *   An "APPLY" icon with a finger cursor.
-    *   **JS1204 (BSc Computer Science)**.
-    *   **JUPAS** as the application system.
-3.  **Undergraduate Study Timeline**: Flow arrow points to a large box representing the degree program, which lists the years of study in ascending order:
-    *   Year 1
-    *   Year 2
-    *   Year 3
-    *   Year 4
-4.  **Major completion**: At the bottom of the timeline box is a final bar labelled **Major in Computer Science**.
+**Phase 1: Entry Qualification**
+*   **Step 1:** The process begins with **HKDSE** (Hong Kong Diploma of Secondary Education).
+
+**Phase 2: Application Process**
+*   **Step 2:** The applicant uses the **JUPAS** (Joint University Programmes Admissions System) to apply.
+*   **Programme:** The specific programme being applied for is **JS1204 (BSc Computer Science)**.
+*   **Action:** An "APPLY" icon with a pointing hand indicates the action of submitting the application.
+
+**Phase 3: Programme Structure / Outcome**
+*   **Step 3:** Upon admission, the student progresses through the programme over four years.
+*   **Years:** The flow leads to a main structure containing four distinct year levels, listed in descending order:
+    *   **Year 4** (top block)
+    *   **Year 3**
+    *   **Year 2**
+    *   **Year 1** (bottom block, directly connected to the incoming arrow from the application phase)
+*   **End Goal:** The entire structure is based on a **Major in Computer Science**, as indicated by the large base block.
+
+**Summary of Relationships:**
+*   HKDSE → JUPAS (Application)
+*   JUPAS → Year 1 entry into the BSc Computer Science programme
+*   Year 1 → Year 2 → Year 3 → Year 4 (Progression)
+*   The programme falls under the **Major in Computer Science**.
 
 ## Source
 

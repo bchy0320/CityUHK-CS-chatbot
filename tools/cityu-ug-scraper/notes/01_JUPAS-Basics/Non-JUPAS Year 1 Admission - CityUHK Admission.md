@@ -238,4 +238,4 @@ High school students are welcome to apply for Direct Admission for [Joint Bachel
 
 - URL: https://www.cityu.edu.hk/admo/admissions/non-jupas-year-1-admission
 - Fetched: 2026-10-28
-- Content hash: `c97d68f552692f6945f4196dfef6310e315698ee8fd90a6a785116c4a92d0700`
+- Content hash: `b2a1deb2ce42721ae1ab8b76a77600e91b19f39947acdb2fab5996b5377b7662`

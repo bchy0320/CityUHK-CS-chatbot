@@ -42,4 +42,6 @@ Major leader (2026/27 page): Prof. Howard LEUNG (BEng McGill, MSc/PhD Carnegie M
 
 ## Source
 
-CityUHK Admissions Office, cityu.edu.hk/admo; CityUHK CS Admission site, admission.cs.cityu.edu.hk
+- CityUHK CS Admission (JUPAS - Major in Computer Science): https://admission.cs.cityu.edu.hk/before-admission-jupas/at-a-glance
+- CityUHK CS Department (BSc CS - Aims): https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/aims
+- CityUHK Admissions Office: https://www.cityu.edu.hk/admo/

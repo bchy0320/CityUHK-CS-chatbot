@@ -36,4 +36,4 @@ Subject weightings (2026): 2: English / Biology /; 1.5: Mathematics /; 1: other 
 
 ## Source
 
-CityUHK 'Admission Score Formula and Admissions Scores for 2026 JUPAS' (official PDF, cityu.edu.hk/admo).
+CityUHK 'Admission Score Formula and Admissions Scores for 2026 JUPAS' (official PDF): https://www.cityu.edu.hk/admo/sites/default/files/2026-01/2026_JUPAS_AdmissionScoreFormulaAndScores.pdf

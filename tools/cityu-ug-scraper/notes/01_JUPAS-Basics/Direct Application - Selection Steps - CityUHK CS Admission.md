@@ -29,31 +29,27 @@ How are Applicants from Direct Application SELECTED?
 
 ### Image 1
 
-Based on the image provided, here is the structured Markdown description:
+This image contains a flowchart showing the admission process for a BSc in Computer Science programme at CityU. Here is the structured description of the process:
 
-### Admission Timeline: BSc in Computer Science
-
-This is a flowchart illustrating the application and admission process for the BSc in Computer Science programme.
+**Overall Timeline (Columns from left to right):**
+*   **Sep – Jan**
+*   **Nov – May**
+*   **Dec – Jul**
+*   **Early Aug**
 
 **Phase 1: Application (Sep – Jan)**
 *   **Action:** Direct Application
-*   **Categories (Branches):**
-    *   HD/AD
-    *   Others
-    *   Non-local
+*   **Applicant Categories:** HD/AD, Others, Non-local
 
-**Phase 2: Interview & Decision (Nov – May)**
+**Phase 2: Assessment (Nov – May)**
 *   **Action:** Admission Interviews
-*   **Decision Point:** Two possible outcomes:
-    *   **Success Path (Decision):** Proceeds to the offer stage.
-    *   **Failure Path (Reserve List):** Candidates are placed on a Reserve List, which then connects to the "Top-up" step in the next phase.
+*   **Decision Branch:** Two possible outcomes:
+    *   **Decision (Checked/Approved):** Proceeds to the next phase.
+    *   **Decision (Crossed/Rejected):** Moves to the "Reserve List."
 
-**Phase 3: Offers & Top-up (Dec – Jul)**
-*   **Offer Types (Branches):**
-    *   Offer List Year 1
-    *   Offer List Advanced Standing I
-    *   Offer List Advanced Standing II
-*   **Top-up:** Connects from the "Reserve List" branch, indicating that reserve candidates may be offered places later in this period.
+**Phase 3: Offers (Dec – Jul)**
+*   **Outcomes for Approved Applicants:** Offer List Year 1, Offer List Advanced Standing I, Offer List Advanced Standing II
+*   **Outcome for Reserve List Applicants:** Top-up (offers given if spots remain)
 
 **Phase 4: Enrolment (Early Aug)**
 *   **Action:** Enrolment

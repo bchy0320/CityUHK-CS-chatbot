@@ -31,25 +31,32 @@ What does the official CityUHK page say about **Direct Application - Target Stud
 
 ### Image 1
 
-This image is a flowchart showing the admission process for non-HKDSE students. Here is the structured breakdown of the steps and criteria:
+Based on the image provided, here is the structured description of the flowchart:
 
-**1. Entry Requirements (Type of Students)**
-*   Applicant must be one of the following: **Higher Diploma (HD)**, **Associate Degree (AD)**, or possess **Other Qualifications**.
+# Admission Process Flowchart
 
-**2. Application Phase**
-*   Submit a **Direct Application**.
-*   **Deadline:** Application deadline is **Early January**.
+The image is a step-by-step flowchart showing the admission process for a specific type of student.
 
-**3. Academic Screening (Academic Results - Non-HKDSE)**
-*   Applicant must **Meet Entrance Requirements**.
-*   Applicant must have **Good Results**.
+## Phases in Order
 
-**4. Interview Phase**
-*   Applicant is **Invited for Admission Interview**.
-*   Applicant must **Perform Well in Interview**.
+1. **Target Applicant Type**
+   - **Type of Students:** Higher Diploma (HD) / Associate Degree (AD) / Other Qualifications
+2. **Application Submission**
+   - **Action:** Direct Application
+   - **Key Date:** Application Deadline: Early January
+3. **Academic Evaluation**
+   - **Criteria:** Academic Results (Non-HKDSE)
+   - **Step 1:** Meet Entrance Requirements
+   - **Step 2:** Good Results
+4. **Interview Stage**
+   - **Step 1:** Invited for Admission Interview
+   - **Step 2:** Perform Well in Interview
+5. **Final Outcome**
+   - **Result:** Selected for Admission
 
-**5. Final Outcome**
-*   Applicant is **Selected for Admission**.
+## Relationships
+- Arrows point downward, indicating a sequential process that requires success at each previous stage to proceed. 
+- The flowchart is linear with no branches; a candidate must pass through all steps (Direct Application → Meet Requirements → Good Results → Interview → Perform Well) to reach the final selection.
 
 ## Source
 

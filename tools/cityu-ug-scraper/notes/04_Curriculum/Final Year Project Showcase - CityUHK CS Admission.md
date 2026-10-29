@@ -61,54 +61,50 @@ Congratulations to all the winners of the Best Poster Presentation Award, and he
 
 ### Image 5
 
-This image is an academic project poster (CityU CS project 24CSG110) that describes a system called **Chess Puzzle Text2SQL**. It contains meaningful data, diagrams, and flowcharts.
+This image is a poster for a CityU Computer Science undergraduate project titled **"Chess Puzzle Text2SQL"**. It is highly informational and contains a diagram, flowchart, and chart.
 
-Here is the structured breakdown of the poster's content:
+Here is a structured breakdown of its meaning:
 
-### Project Metadata
-*   **Institution:** CityU Department of Computer Science
-*   **Project Code:** 24CSG110
-*   **Name:** Siddhartha Rakshit
-*   **Supervisor:** Prof. Adi Chen
-*   **Product:** Chess Puzzle Text2SQL (website: www.chesspuzzletext2sql.com)
+### Project Details
+*   **Institution:** Department of Computer Science, CityU (City University of Hong Kong).
+*   **Course/Code:** CSD110 (listed under "Code").
+*   **Supervisor:** Prof. Adi Chen.
+*   **Website:** www.chesspuzzletext2sql.com
 
-### 1. Introduction / Goal
-*   The website allows users to search for chess puzzles using **Natural Language**.
-*   **Example Queries:**
-    *   "My friend began playing the French Defense, can you help me?"
-    *   "Puzzles about sacrifice in the London"
-    *   "Rating > 1900, Chess is Zugzwang"
-*   **Access:** QR code provided on the poster.
+---
 
-### 2. How It Works (Text2SQL Pipeline)
-The system uses a natural language processing technology to convert human text into SQL queries. The process is a 3-step linear flow:
-1.  **Natural Question:** User inputs text (e.g., "Dutch Defense Midgame").
-2.  **SQL Statement:** The system generates a query (e.g., `SELECT * FROM t_puzzle WHERE theme LIKE '%middlegame%' AND opening_tags LIKE '%Dutch Defense%'`).
-3.  **Chess Puzzle:** The system returns the matching visual chessboard puzzle.
+### 1. Core Concept: How Text2SQL Works (Flowchart)
+The poster demonstrates a three-step process for converting natural language into a chess puzzle:
+1.  **Natural Question:** User inputs text, e.g., *"Dutch Defense Midgame"*.
+2.  **SQL Statement:** The system generates SQL code: `SELECT * FROM t_puzzle WHERE theme LIKE "%middlegame%" AND opening_tags LIKE "%Dutch Defense%"`.
+3.  **Chess Puzzle:** The system retrieves and displays a corresponding chessboard image (puzzle).
 
-### 3. System Result & Utility
-*   **Result:** The interface is Intuitive, Powerful, and User-friendly.
-*   **Utility (Venn Diagram):** Text2SQL acts as a "glue" combining the **Ease of use of Search Engine** with the **Precision of Database Engine**.
-*   **The "Takeaway":** A user does not need to know SQL or complex database queries; they can simply type natural language questions.
+---
 
-### 4. How It's Implemented
-The poster details the technical methodology in a 3-step process:
-*   **Step 1: Preface**
-    *   State-of-the-art Text2SQL is done using LLM.
-    *   *Problem:* Naive prompting of LLM is not very good, achieving only ~50% accuracy.
-    *   *Solution:* "Have to be innovative."
-*   **Step 2: Finding Similar Demonstrations**
-    *   Using a prompt template is effective, but replacing static demonstrations with those **similar to the user's prompt** significantly boosts accuracy.
-    *   *Constraint:* Finding similar demonstrations is "not easy to do" with semantic search.
-*   **Step 3: Schema Masking**
-    *   To support semantic search, the system replaces database keywords in queries with generalized forms (e.g., replacing a specific string with `<opening_tags>`).
-    *   *Method:* Uses **Jaccard Similarity** to match these generalized queries.
-    *   *Note:* 27 demonstrations were created synthetically for this project.
+### 2. Implementation Process (Steps 1, 2, 3)
+A stylized "map" flowchart details the technical implementation:
+*   **Step 1 (Preface):** Notes that using a basic LLM (Large Language Model) naively yields a low accuracy of ~50%. The goal is to be *innovative*.
+*   **Step 2 (Finding Similar Demonstrations):** Uses a prompt template with static demonstrations. By replacing static demonstrations with ones *closely related to the user's prompt*, accuracy improves significantly. *Note: It admits that finding such similar demonstrations is a form of semantic search that is "not easy to do."*
+*   **Step 3 (Schema Masking):** To support semantic search, database keywords are replaced with generalized forms (e.g., `"opening_tags"` becomes `<themes>`). The system then uses Jaccard Similarity to find matches.
 
-### 5. Benchmark / Results
-*   **Final Accuracy:** **89.6%** (when using Finding Similar Demonstrations and Schema Masking).
-*   *Comparison:* Accuracy drops to 82.9% if prompting without Schema Masking, and to 59.5% if prompting naively.
-*   *Note:* Done on a self-made 1835 synthetic benchmark records.
+---
+
+### 3. Results and Advantages
+*   **The Result:** A user interface that is **Intuitive, Powerful, and User-friendly**.
+*   **The Takeaway:** The system acts as "glue," combining the **Ease of Use of a Search Engine** with the **Precision of a Database Engine**.
+
+---
+
+### 4. Data/Chart (Accuracy Benchmark)
+The poster features a benchmark chart showing `89.6% Accuracy` for chess puzzles:
+*   **With Schema Masking & Similar Demonstrations:** 89.6% (marked as *done on self-made 185 synthetic benchmark records*).
+*   **Without Schema Masking (but with S.D.):** 82.9%.
+*   **Naive Prompting:** 53.5%.
+
+### Additional Information
+*   **Example Queries:** Includes "My friend keeps playing the French Defense, can you help me?" and "Puzzle about sacrifice in the London".
+*   **Access:** A QR code is provided to access the website via an IP address (details not fully readable).
+*   **Note:** The poster explicitly states that "27 demonstrations created synthetically" were used.
 
 ## Source
 

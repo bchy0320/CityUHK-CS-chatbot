@@ -32,4 +32,4 @@ What is the 2025 JUPAS admission score and formula for CityU JS1218 BSc Cybersec
 
 ## Source
 
-CityUHK 'Admission Score Formula and Admissions Scores for 2025 JUPAS' (official PDF, cityu.edu.hk/admo).
+CityUHK 'Admission Score Formula and Admissions Scores for 2025 JUPAS' (official PDF, cityu.edu.hk/admo). Historical PDF for 2025 not found on the current CityUHK website; see the JUPAS Admission page for the latest data: https://www.cityu.edu.hk/admo/admissions/jupas-admission

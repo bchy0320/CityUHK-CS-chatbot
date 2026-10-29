@@ -60,6 +60,12 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
+> **Note:** `brotli` is required. Some CityUHK hosts (e.g.
+> `scholars.cityu.edu.hk`) serve pages with `Content-Encoding: br`. Without
+> `brotli` installed, httpx cannot decompress them and the raw capture is saved
+> as compressed bytes (an empty-looking page). It is listed in
+> `requirements.txt`.
+
 ### Vision (optional)
 
 Content images are described by a vision-capable LLM (DeepSeek) when an API
@@ -134,4 +140,13 @@ python -m src.cli generate --date 2026-10-27
   pages), the generated note filenames are disambiguated with a numeric suffix
   (`Name.md`, `Name (2).md`, `Name (3).md`) so neither note overwrites the
   other.
+- CityUHK Scholars profile pages (`scholars.cityu.edu.hk/en/persons/...`) have
+  a `<title>` like `"Cong WANG\n      -  CityUHK Scholars"`. The note title
+  strips the `- CityUHK Scholars` suffix and collapses whitespace so the
+  filename is clean (e.g. `Cong WANG.md`).
+- Many `/academic-programmes/<programme>/<section>/...` sub-pages share the
+  same generic `<title>` (just the programme name). The note title appends the
+  section/subsection from the URL path (e.g. `Bachelor of Science in Computer
+  Science - Curriculum - Overview`) so each note has a distinct, descriptive
+  filename instead of a bare programme name with a numeric suffix.
 - Respects `robots.txt` and a polite delay between requests.

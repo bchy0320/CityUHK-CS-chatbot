@@ -78,91 +78,99 @@ What does the official CityUHK page say about **TEN Common Myths | CityUHK CS Ad
 
 ### Image 1
 
-The image is a Venn diagram illustrating the relationships between different fields in computing and engineering.
+The image is a diagram, specifically a Venn diagram that shows the relationships between different fields in computing and engineering based on their primary focus areas.
 
-**Core Elements and Relationships:**
-*   **Three Main Circles:**
-    *   **EE (Left):** Represents **HARDWARE**.
-    *   **CS (Center):** Represents **SOFTWARE**.
-    *   **IS (Right):** Represents **ORGANIZATIONAL NEEDS**.
-*   **Overlapping Regions (Intersections):**
-    *   **CE:** The intersection of **EE (Hardware)** and **CS (Software)**.
-    *   **IE:** The intersection of **EE (Hardware)** and the central **CS (Software)** region (positioned at the lower overlap).
-    *   **IT:** The intersection of **CS (Software)** and **IS (Organizational Needs)**.
+**Visual Structure:**
+*   **Left Circle (Grey):** Labeled **EE** at its center. Below the circle is the text "**HARDWARE**".
+*   **Middle Circle (Light Blue):** Labeled **CS** at its center. Below the circle is the text "**SOFTWARE**". This circle is the largest of the three.
+*   **Right Circle (Grey):** Labeled **IS** at its center. Below the circle is the text "**ORGANIZATIONAL NEEDS**".
 
-**Meaning:**
-The diagram shows how different disciplines (CE, IE, IT) emerge from the intersection of core areas:
-*   **EE + CS = CE** (Computer Engineering, blending hardware and software).
-*   **EE + CS = IE** (likely Industrial/Information Engineering, focused on the hardware-software interface).
-*   **CS + IS = IT** (Information Technology, applying software to meet organizational needs).
+**Intersections (Relationships):**
+*   **EE ∩ CS (Left-Middle):** Contains the label **CE** (Computer Engineering), representing the overlap between Hardware and Software.
+*   **CS ∩ IS (Middle-Right):** Contains the label **IT** (Information Technology), representing the overlap between Software and Organizational Needs.
+*   **EE ∩ CS ∩ IS? / EE ∩ IS?:** There is a label **IE** inside a box positioned at the boundary between the EE and CS circles, near the bottom left of the CS circle. It is technically placed in the CS circle but adjacent to both EE and CS. (Note: Given the context of computer science/engineering, this typically stands for Industrial Engineering, but the diagram only places it near the hardware/software intersection without a specific "hardware + organizational needs" overlap to define it).
+
+**Meaning Summary:**
+*   **EE** focuses on **Hardware**.
+*   **CS** focuses on **Software**.
+*   **IS** focuses on **Organizational Needs**.
+*   **CE** is the intersection of Hardware and Software.
+*   **IT** is the intersection of Software and Organizational Needs.
 
 ### Image 2
 
-This image is a simple diagram that categorizes Computer Science Students based on a shared attribute. It shows the following relationships:
+This image contains a simple diagram that categorizes **Computer Science Students** based on a shared characteristic. 
+
+Here is the structured representation of its meaning:
 
 *   **Main Category:** Computer Science Students
-*   **Shared Characteristic:** Logical Mind (presented as a banner/header)
-*   **Three Sub-categories (branches):**
-    1.  Science Students
-    2.  Arts/Commerce Students
-    3.  Math Students
+*   **Core Attribute:** All students possess a **Logical Mind**.
+*   **Sub-categories (Branches):** The image shows three distinct groups of students that fall under this umbrella:
+    1.  **Science Students**
+    2.  **Arts/Commerce Students**
+    3.  **Math Students**
 
-The diagram implies that students from these three distinct academic backgrounds are unified under the category of Computer Science students because they all possess a "Logical Mind."
+**Relationship:**
+The diagram illustrates that while students come from three different academic backgrounds (Science, Arts/Commerce, and Math), they are unified as Computer Science students by the common trait of having a logical mind.
 
 ### Image 3
 
-The image contains meaningful information in the form of a diagram. Here is a structured description:
+This image is a diagram that uses the metaphor of a balance scale to illustrate the relationship between effort and academic disciplines.
 
-### Diagram Description
+**Phases/Elements in Order:**
+1. **Top Left (Input):** A box labeled "Hard Work".
+2. **Top Right (Output):** A box labeled "Good Results".
+3. **Bottom Left (Pan 1):** A stack of two blocks resting on the left side of the scale.
+   * Top block: "Business Management" (Yellow)
+   * Bottom block: "Social Science" (Blue)
+4. **Bottom Right (Pan 2):** A stack of two blocks resting on the right side of the scale.
+   * Top block: "Computer Science" (Green)
+   * Bottom block: "Engineering" (Red)
 
-The image is a balanced scale diagram, suggesting that the elements on both sides are of equal importance or weight.
-
-**Top Elements (Keywords):**
-*   **Left Box:** Hard Work
-*   **Right Box:** Good Results
-
-**Balanced Elements (Disciplines):**
-*   **Left Side of Scale (2 blocks):**
-    *   Business Management (Yellow block)
-    *   Social Science (Blue block)
-*   **Right Side of Scale (2 blocks):**
-    *   Computer Science (Green block)
-    *   Engineering (Pink block)
-
-**Meaning:**
-The visual metaphor shows that "Hard Work" combined with disciplines like Business Management and Social Science is in balance with "Good Results" and disciplines like Computer Science and Engineering. This implies that all four academic fields contribute equally to achieving success through effort.
+**Relationships:**
+* The diagram implies that "Hard Work" leads to "Good Results."
+* The central visual is a balanced scale, suggesting that the combination of "Business Management" and "Social Science" is balanced against the combination of "Computer Science" and "Engineering."
+* This visual metaphor likely represents the idea that different academic disciplines (humanities/business vs. technical/STEM) hold equal weight or importance in the context of a Computer Science curriculum or university admission.
 
 ### Image 4
 
-This image contains text and is a cartoon-style illustration conveying a message about learning. It is not a diagram, flowchart, timeline, map, or chart, but it does contain text-based information structured as a comparison.
+The image contains text elements that convey a conceptual message. Here is the structured Markdown description:
 
-*   **Top Left:** A grey thought cloud contains the text "**Boring**".
-*   **Top Right:** A yellow thought cloud contains the text "**Interesting**".
-*   **Left/Center:** A stick-figure character is shown thinking.
-*   **Bottom:** A white banner contains the following text: "**Depends on HOW much you know. When you Know more, you have more FUN!!!**"
+# Image Content Analysis
+
+**Type:** Motivational/Conceptual Graphic
+
+**Elements:**
+*   **Top Left:** A grey thought bubble containing the word "Boring".
+*   **Top Right:** A yellow thought bubble containing the word "Interesting".
+*   **Center:** A cartoon figure of a person with a thought bubble above their head.
+*   **Bottom:** A text banner containing the following phrase:
+    *   "Depends on HOW much you know. When you know more, you have more FUN!!!"
 
 **Meaning:**
-The image illustrates a philosophical view on learning and perception. It contrasts the ideas of something being perceived as "Boring" versus "Interesting" and ties the resolution to one's level of knowledge. The text suggests that the more you know about a subject, the more fun and interesting it becomes.
+The image contrasts two perceptions ("Boring" vs. "Interesting") and suggests that the difference lies in one's level of knowledge. It implies that a lack of knowledge makes a subject feel boring, while increased knowledge leads to greater enjoyment ("FUN").
 
 ### Image 5
 
-This image contains a diagram: the classic **Software Development Life Cycle (SDLC)** waterfall model.
+This image contains a meaningful flowchart diagram. Here is a structured description of its contents:
 
-Here is the structured description of its contents:
+**Diagram Type:** A sequential, top-down flowchart representing the Software Development Life Cycle (SDLC).
 
-**Meaning:** The diagram illustrates the sequential phases of software development, moving downward in a staircase pattern. A thought bubble in the upper right corner notes where programming fits into this process.
-
-**Phases (in order):**
-1. **Requirements**
-2. **Analysis**
-3. **Design**
-4. **Implementation**
-5. **Testing**
-6. **Maintenance**
+**Steps (in order):**
+1.  **Requirements** (Orange box)
+2.  **Analysis** (Yellow box)
+3.  **Design** (Green box)
+4.  **Implementation** (Green box)
+5.  **Testing** (Blue box)
+6.  **Maintenance** (Grey/Black box)
 
 **Relationships:**
-* Each phase is connected to the next via a **red downward-pointing arrow**, indicating a linear, step-by-step progression where one phase must be completed before the next begins.
-* A thought bubble (with a trail of small circles leading from the diagram) contains the text **"Programming is here"**, indicating that the coding/programming stage occurs during the **Implementation** phase.
+*   Each step is connected to the next by a downward-pointing red arrow, indicating a strict linear progression from "Requirements" through to "Maintenance."
+
+**Additional Information/Annotations:**
+*   A cloud-shaped thought bubble (with dots leading to it) is positioned to the right of the middle steps.
+*   The text inside the cloud reads: **"Programming is here"**.
+*   The bubble's location implies that the "Programming" (coding) phase takes place specifically within the **Implementation** stage of the process.
 
 ## Source
 

@@ -18,7 +18,7 @@ What is the 2025 JUPAS admission score and formula for CityU JS1113 BSocSc Socia
 
 ## Answer
 
-**JS1113 BSocSc Social Work (Features: Social Engagement and Concern for People’s Health and Well-Being / Human Diversities and Sustainability / People-in-Environment Interventions)** (College of Liberal Arts and Social Sciences). 2025 JUPAS admission score formula: **Best 4 subjects (include English) 2: English**.
+**JS1113 BSocSc Social Work (Features: Social Engagement and Concern for Peopleâ€™s Health and Well-Being / Human Diversities and Sustainability / People-in-Environment Interventions)** (College of Liberal Arts and Social Sciences). 2025 JUPAS admission score formula: **Best 4 subjects (include English) 2: English**.
 
 **Published 2025 admissions scores (from 2024-entry Main Round offers): Median 22.5, Lower Quartile 21.5.**
 
@@ -38,4 +38,4 @@ These are weighted admission scores and are not comparable across programmes or 
 
 ## Source
 
-CityUHK 'Admission Score Formula and Admissions Scores for 2025 JUPAS' (official PDF, cityu.edu.hk/admo).
+CityUHK 'Admission Score Formula and Admissions Scores for 2025 JUPAS' (official PDF, cityu.edu.hk/admo). Historical PDF for 2025 not found on the current CityUHK website; see the JUPAS Admission page for the latest data: https://www.cityu.edu.hk/admo/admissions/jupas-admission

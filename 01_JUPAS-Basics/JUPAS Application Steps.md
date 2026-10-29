@@ -46,4 +46,6 @@ There is no blanket interview for CS/Cybersecurity - selection is effectively on
 
 ## Source
 
-JUPAS, jupas.edu.hk; CityUHK Admissions Office, cityu.edu.hk/admo
+- JUPAS: https://www.jupas.edu.hk/
+- CityUHK Admissions Office (JUPAS Admission): https://www.cityu.edu.hk/admo/admissions/jupas-admission
+- CityUHK CS Admission (JUPAS at a glance): https://admission.cs.cityu.edu.hk/before-admission-jupas/at-a-glance

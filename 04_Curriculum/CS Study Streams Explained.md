@@ -41,4 +41,6 @@ A student typically commits to a stream by taking 3 courses of that stream (or t
 
 ## Source
 
-CityUHK CS Department, cs.cityu.edu.hk; CityUHK Admissions Office, cityu.edu.hk/admo
+- CityUHK CS Admission (Study Streams): https://admission.cs.cityu.edu.hk/during-study/study-streams
+- CityUHK CS Department (BSc CS Curriculum - Study Plan): https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/curriculum/study-plan
+- CityUHK Admissions Office: https://www.cityu.edu.hk/admo/

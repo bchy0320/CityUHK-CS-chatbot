@@ -67,27 +67,29 @@ The image contains meaningful information in the form of a testimonial/infograph
 
 # Excellent Comments from Internship Companies
 
-This image presents four separate customer testimonials from companies that hosted interns, along with their associated company logos.
+This image is a collection of four testimonials from different companies regarding the performance of an intern (likely a CityU CS student). It does not depict a process, flowchart, or timeline, but rather four independent feedback statements.
 
-### Testimonial 1: Shanghai Commercial Bank
+## Testimonials
+
+### 1. Shanghai Commercial Bank
+*   **Logo:** 上海商業銀行 / SHANGHAI COMMERCIAL BANK
 *   **Comment:** "Enthusiastic in work. Proactively finding solution to improve UAT efficiency. Willing to learn the non-IT skill and business knowledge. Got positive feedback from business users and other IT teams."
-*   **Attribution (Logo):** 上海商业银行 / SHANGHAI COMMERCIAL BANK
 
-### Testimonial 2: The Hong Kong Jockey Club
+### 2. The Hong Kong Jockey Club
+*   **Logo:** 香港賽馬會 / The Hong Kong Jockey Club
 *   **Comment:** "She has adapted well into her role which requires her to regularly work alone to complete tight deadlines. She has completed her assignments diligently and on time. Overall, she has made significant contributions to the success of the IT programme and I take this opportunity to wish her the very best in her future studies, work and career."
-*   **Attribution (Logo):** 香港賽馬會 / The Hong Kong Jockey Club
 
-### Testimonial 3: Deloitte
+### 3. Deloitte
+*   **Logo:** Deloitte.
 *   **Comment:** "He has demonstrated professionalism when conducting the works assigned to him. He is the major player in the software development and at numerous times gone above and beyond the call of duty."
-*   **Attribution (Logo):** Deloitte
 
-### Testimonial 4: BEA 東亞銀行
+### 4. BEA 東亞銀行
+*   **Logo:** BEA 東亞銀行
 *   **Comment:** "He is a good team member and able to deliver tasks within schedule."
-*   **Attribution (Logo):** BEA 東亞銀行
 
-**Header Elements:**
-*   There is an icon at the top of the page depicting a group of people with checkmarks above them.
-*   The main title reads: "Excellent Comments from Internship Companies".
+## Additional Visual Elements
+*   **Header:** "Excellent Comments from Internship Companies"
+*   **Top Graphic:** An icon depicting three people (one with a checkmark/medal symbol), representing achievement or teamwork.
 
 ## Charts
 

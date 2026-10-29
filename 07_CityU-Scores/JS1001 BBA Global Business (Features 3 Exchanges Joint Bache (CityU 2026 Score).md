@@ -18,7 +18,7 @@ What is the 2026 JUPAS admission score and formula for CityU JS1001 BBA Global B
 
 ## Answer
 
-**JS1001 BBA Global Business (Features: 3 Exchanges / Joint Bachelor’s Degree Program with Columbia University (US) / Overseas Summer School & Study Tour / Business Consultancy Project/Scholarship and Sponsorship)** (College of Business). 2026 JUPAS main admission score formula: **Best 5 subjects**.
+**JS1001 BBA Global Business (Features: 3 Exchanges / Joint Bachelorâ€™s Degree Program with Columbia University (US) / Overseas Summer School & Study Tour / Business Consultancy Project/Scholarship and Sponsorship)** (College of Business). 2026 JUPAS main admission score formula: **Best 5 subjects**.
 
 Subject weightings (2026): 1.5: English; 1: other elective subjects.
 
@@ -43,4 +43,4 @@ These are weighted admission scores and are not comparable across programmes or 
 
 ## Source
 
-CityUHK 'Admission Score Formula and Admissions Scores for 2026 JUPAS' (official PDF, cityu.edu.hk/admo).
+CityUHK 'Admission Score Formula and Admissions Scores for 2026 JUPAS' (official PDF): https://www.cityu.edu.hk/admo/sites/default/files/2026-01/2026_JUPAS_AdmissionScoreFormulaAndScores.pdf

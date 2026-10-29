@@ -53,14 +53,22 @@ Shortlisted applicants will be invited to interview. You may watch the video bel
 
 ### Image 1
 
-The image contains a set of guiding questions, likely for prospective students. It is not purely decorative. Here is the structured description:
+The image contains meaningful text organized as a set of questions and a statement, functioning as an informational graphic (likely an FAQ-style prompt or recruitment visual). Here is the structured description:
 
-*   **Top Left Question:** "What are the main features of our programme?"
-*   **Top Right Question:** "What activities are you most interested in being involved in after school?"
-*   **Bottom Left Question:** "Why choose our programme?"
-*   **Bottom Right Question:** "What are your career goals in the future?"
-*   **Bottom Center Element:** A graphic of an interviewer or advisor sitting behind a desk with a document, alongside a potential student.
-*   **Bottom Right Element:** A speech bubble from the student figure that reads "I want..."
+**Overall Meaning:**
+The image presents four prompting questions related to a programme's features, selection criteria, extracurriculars, and career outcomes, alongside a statement starting with "I want...". It is designed to guide prospective students toward relevant information.
+
+**Elements & Relationships:**
+
+*   **Question 1 (Top Left):** "What are the main features of our programme?"
+*   **Question 2 (Bottom Left):** "Why choose our programme?"
+*   **Question 3 (Top Right):** "What activities are you most interested in being involved in after school?"
+*   **Question 4 (Bottom Right):** "What are your career goals in the future?"
+*   **Central Icon:** Below the questions, there is a simple icon of a person representing a student or advisor (marked "CS" on the shirt), seated at a desk with a computer.
+*   **Student Statement:** Adjacent to the icon, a speech bubble contains the text **"I want..."**.
+
+**Relationship:**
+The four questions correspond to different aspects of the student experience (programme content, value proposition, campus life, and career planning), while the "I want..." statement invites the student to articulate their personal goals, likely leading to one of these topics. No specific dates, course names, or phases are present.
 
 ## Source
 

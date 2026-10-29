@@ -62,4 +62,6 @@ On top of these: a **Diversity Grant** and **Entrance Scholarship Scheme (Top / 
 
 ## Source
 
-CityUHK Scholarships for Hong Kong Talents (cityu.edu.hk/scholarship), page updated 25 September 2026. International scheme details from cityu.edu.hk/international/fees-scholarships/scholarships.
+- CityUHK Scholarships: https://www.cityu.edu.hk/en/admissions/scholarship
+- CityUHK International (Fees & Scholarships): https://www.cityu.edu.hk/international/fees-scholarships/scholarships
+- CityUHK CS Department (BSc CS - Scholarships): https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/scholarships

@@ -34,4 +34,5 @@ Course levels in CityUHK CS follow the digit convention: 1000-series = first yea
 
 ## Source
 
-CityUHK Undergraduate Catalogue - BSc Computer Science course list (cs.cityu.edu.hk).
+- CityUHK Programme and Course Catalogue: https://www.cityu.edu.hk/en/academic/catalogue
+- CityUHK CS Department (BSc CS Curriculum - Degree Major Requirements): https://www.cs.cityu.edu.hk/academic-programmes/bsc-computer-science/curriculum/degree-major-requirements

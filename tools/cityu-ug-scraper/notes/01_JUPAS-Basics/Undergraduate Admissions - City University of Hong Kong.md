@@ -29,4 +29,4 @@ Our unique Discovery-enriched Curriculum (DEC) encourages every student at CityU
 
 - URL: https://www.cityu.edu.hk/admissions/ug/
 - Fetched: 2026-10-28
-- Content hash: `f8ba2c412bf421d1c8d3afcdc916777388d6c51c7d08ab71f2d2ba67fbe20f69`
+- Content hash: `241ffdedb3496d57b52d2cde16232f161cdb57ff0bf9d81e5dc2747fee0e569e`
