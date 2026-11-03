@@ -22,6 +22,9 @@ Thumbs.db
 # Local tooling session state
 .dsh/
 
+# Local backup of previous notes (not tracked)
+notes_backup/
+
 # CityU UG scraper
 tools/cityu-ug-scraper/raw/
 tools/cityu-ug-scraper/.venv/
