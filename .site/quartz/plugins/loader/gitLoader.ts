@@ -473,10 +473,21 @@ export async function installPlugin(
       console.log(styleText("cyan", `→`), `Linking ${spec.name} from ${spec.repo}...`)
     }
 
-    fs.symlinkSync(spec.repo, pluginDir, "dir")
-
-    if (options.verbose) {
-      console.log(styleText("green", `✓`), `Linked ${spec.name}`)
+    try {
+      fs.symlinkSync(spec.repo, pluginDir, "dir")
+      if (options.verbose) {
+        console.log(styleText("green", `✓`), `Linked ${spec.name}`)
+      }
+    } catch (err) {
+      // Windows without Developer Mode / admin rights cannot create symlinks.
+      // Fall back to copying the plugin directory so local plugins still load.
+      if (options.verbose) {
+        console.log(styleText("yellow", `⚠`), `Symlink failed (${(err as Error).message}); copying ${spec.name} instead`)
+      }
+      fs.cpSync(spec.repo, pluginDir, { recursive: true })
+      if (options.verbose) {
+        console.log(styleText("green", `✓`), `Copied ${spec.name}`)
+      }
     }
 
     return { pluginDir, nativeDeps: collectNativeDeps(pluginDir) }
