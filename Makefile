@@ -9,7 +9,7 @@
 #   make site-clean    # Remove build output
 
 QUARTZ_DIR := .site
-CONTENT_DIR := content
+CONTENT_DIR := ../notes
 OUTPUT_DIR := $(QUARTZ_DIR)/public
 PORT := 8080
 
