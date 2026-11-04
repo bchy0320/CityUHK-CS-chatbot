@@ -709,7 +709,11 @@
   // last, so link/bold/math processing never corrupts them.
   function renderMarkdown(text) {
     var source = String(text);
-    var hasMath = /\$\$?/.test(source);
+    // Genuine math is a $ NOT immediately followed by a digit (a digit right
+    // after $ means a currency amount like HK$15,000). Only add the MathJax
+    // wrapper (and escape currency $) when genuine math is present; otherwise
+    // currency $ renders as-is in plain HTML with no MathJax dependency.
+    var hasMath = /\$(?!\d)/.test(source);
     var codeMap = [];
     // Extract fenced code blocks with a LINEAR scan, not a single regex. The
     // old pattern `(?:(?:.*(?:\r\n?|\n)?)*)?` had a nested unbounded
@@ -770,6 +774,13 @@
         return "\u0002" + (imgs.length - 1) + "\u0002";
       });
       var out = esc(text);
+      // When genuine math is present (hasMath), escape currency $ signs
+      // (e.g. HK$15,000, "$15,000", "$4") so MathJax does not treat them as
+      // inline-math delimiters and strip the surrounding spaces/$ (which
+      // produced garbled output like "HK15,000acceptancefee"). A $ is a
+      // currency sign when it is immediately followed by a digit (the
+      // amount). MathJax's processEscapes renders \$ as a literal $.
+      if (hasMath) out = out.replace(/\$(\d)/g, "\\$$$1");
       out = out.replace(/\u0002(\d+)\u0002/g, function (_, i) {
         var im = imgs[parseInt(i, 10)];
         return imageHtml(im ? im.alt : "image", im ? im.src : null);
